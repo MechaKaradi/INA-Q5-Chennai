@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "aliases, statement-num": "multitext",
+    "statement-num": "text"
+  }
+}
