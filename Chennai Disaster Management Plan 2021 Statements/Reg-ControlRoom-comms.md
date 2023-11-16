@@ -2,6 +2,7 @@
 aliases: 
 section: Summary
 statement-num: "006.001"
+statement-type: "2"
 ---
 ## Statements 
 > [!info] Raw Statement
@@ -18,8 +19,10 @@ will be coordinated by the Control Room.” (Greater Chennai Corporation (GCC), 
 ## Components
 
 ### Type: Regulatory Statements
-Attribute:: Control Room 
-	Attribute Property:
+Attribute:: Control Room
+Attribute-link:: [[Control Room]]
+Attribute-Property::
+
 Deontic:: must
 
 Aim:: disseminate or coordinate
@@ -41,30 +44,3 @@ Logical combination:
 
 
 Invoking statement(s):
-
-
-### Type: Constitutive statements
-
-Constituted Entity:
-	Constituted entity Property:
-
-Constituting Function:
-
-Constituted Properties:
-	Constituted Properties Property:
-
-Modal/Deontic:
-
-Activation Condition Content:
-	Activation Condition Reference:
-
-Execution Constraint Content:
-	Execution Constraint Reference:
-
-Or Else:
-	Forward Reference:
-
-Logical Combination:
-
-Invoking Statements:
-

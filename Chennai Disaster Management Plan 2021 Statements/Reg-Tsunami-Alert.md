@@ -4,6 +4,7 @@ aliases:
   - "002.004"
 section: Introduction
 statement-num: 003, 002.004
+statement-type: "4"
 ---
 ## Statements 
 > [!info] Raw Statement
@@ -14,8 +15,9 @@ statement-num: 003, 002.004
 ## Components
 
 ### Type: Regulatory Statements
-Attribute:: [[Greater Chennai Corporation|Greater Chennai Corporation]]
-	Attribute Property: 
+Attribute:: Greater Chennai Corporation
+Attribute-link:: [[Greater Chennai Corporation|Greater Chennai Corporation]]
+Attribute-Property::
 
 Deontic:: must, (has to)
 
@@ -24,46 +26,17 @@ Aim:: receive
 Direct-Object:: tsunami alert
 	Reference statement:
 
-Indirect-Object:: [[Indian Tsunami Early Warning Centre (ITEWC)]]
-	Reference statement: of the Indian National Centre for Ocean Information Services
+Indirect-Object:: Indian Tsunami Early Warning Centre (ITEWC)
+Indirect-Object-Reference:: [[Indian Tsunami Early Warning Centre (ITEWC)]]
 
-Activation Condition:: when it is issued (implied)
-	Activation Condition (Reference to statement):
+Activation-Condition-Content::when it is issued (implied)
+Activation-Condition-Reference::
 
-Execution Constraint (Content):
-	Execution Constraint (Reference to statement): 
+Execution-Constraint-Content::
+Execution-Constraint-Reference::
+Or-else::
+Or-else-Reference::
 
-Or else:
-	Or else (Forward reference):
+Logical-combination::
 
-Logical combination:
-
-
-Invoking statement(s):
-
-
-### Type: Constitutive statements
-
-Constituted Entity:
-	Constituted entity Property:
-
-Constituting Function:
-
-Constituted Properties:
-	Constituted Properties Property:
-
-Modal/Deontic:
-
-Activation Condition Content:
-	Activation Condition Reference:
-
-Execution Constraint Content:
-	Execution Constraint Reference:
-
-Or Else:
-	Forward Reference:
-
-Logical Combination:
-
-Invoking Statements:
-
+Invoking-statements::

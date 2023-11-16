@@ -3,6 +3,7 @@ aliases:
   - "032"
 section: 8 - SOP
 statement-num: "032"
+statement-type: "2"
 ---
 ## Statements 
 > [!info] Raw Statement

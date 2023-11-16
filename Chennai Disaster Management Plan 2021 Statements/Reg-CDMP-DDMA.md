@@ -3,6 +3,7 @@ aliases:
   - "001"
 section: Rationale
 statement-num: "001"
+statement-type: "5"
 ---
 ## Statement 
 
@@ -12,48 +13,34 @@ statement-num: "001"
 ## Component Statements
 > Links/ sections of statement fragments 
 
-[[Reg-CDMP-SDMA]]
-
 which is to be approved by .
 ## Components
 
-Type: Regulatory Statements
+Entity-Type:: Regulatory Statement
 
-Attribute:: [[Greater Chennai Corporation|District Disaster Management Authority (DDMA)]] 
-	Attribute Property: "of each district in the country "
+Attribute:: District Disaster Management Authority (DDMA) 
+Attribute-link:: [[Greater Chennai Corporation|District Disaster Management Authority (DDMA)]] 
+Attribute-Property:: of each district in the country
 
-Deontic:: "shall" 
+Deontic:: shall 
 
-Aim:: "prepare"
+Aim:: prepare
 
-Direct-Object:: [[City Disaster Management Plan (CDMP)]] 
-	Reference statement:
+Direct-Object::  City Disaster Management Plan (CDMP)
+Direct-Object-Reference:: [[City Disaster Management Plan (CDMP)]]
 
-Indirect-Object:: [[State Disaster Management Authority (SDMA)]]
-	Reference statement: [[Reg-CDMP-SDMA|001.001]]
-Activation Condition (Content)
-	Activation Condition (Reference to statement)
-Execution Constraint (Content): "As per Section 31 of the [[Disaster Management Act, 2005(DM Act)]]" 
-	Execution Constraint (Reference to statement): 
-Or else
-	Or else (Forward reference)
+Indirect-Object:: State Disaster Management Authority (SDMA)
+Indirect-Object-Reference:: [[State Disaster Management Authority (SDMA)]]
 
+Activation-Condition-Content::
+Activation Condition-Reference::
 
-Logical combination 
+Execution-Constraint-Content:: As per Section 31 of the Disaster Management Act, 2005(DM Act) 
+Execution-Constraint-Reference:: [[Disaster Management Act, 2005(DM Act)]] 
 
+Or-else::
+Or-else-Reference::
 
-Invoking statement(s)
+Logical-combination:: AND [[Reg-CDMP-SDMA|001.001]]
 
-
-Type: Constitutive statements
-
-Constituted Entity
-	Constituted entity Property
-
-Constituting Function
-
-Constituted Properties
-	Constituted Properties Property
-
-Modal/Deontic:: --
-aliases: 
+Invoking-statements::

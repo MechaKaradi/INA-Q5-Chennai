@@ -3,6 +3,7 @@ aliases:
   - "002"
 section: Introduction
 statement-num: "002"
+statement-type: "3"
 ---
 ## Statements 
 > [!info] Raw Statement
@@ -35,54 +36,29 @@ vi. Working in close quarters with State Disaster Centre regularly to get disast
 ## Components
 
 ### Type: Regulatory Statements
-Attribute:: [[City Disaster Management Plan (CDMP)]] OR [[Greater Chennai Corporation]]
-	Attribute Property:
+Attribute:: Greater Chennai Corporation
+Attribute-link:: [[Greater Chennai Corporation]]
+Attribute-Property::
 
 Deontic:: must
 
 Aim:: enable / focus / organise
 
-Direct-Object:: activities 
-	Reference statement: [[002.001]] AND [[002.002]] AND [[002.003]]
+Direct-Object:: disaster mitigation and repose activities under the Disaster Management Plan 
+Direct-Object-Reference:: [[City Disaster Management Plan (CDMP)]]
 
-Indirect-Object:
-	Reference statement:
-Activation Condition (Content):
-	Activation Condition (Reference to statement):
-Execution Constraint (Content):
-	Execution Constraint (Reference to statement): 
-Or else:
-	Or else (Forward reference):
+Indirect-Object::
+Indirect-Object-Reference::
 
+Activation-Condition-Content::
+Activation-Condition-Reference::
 
-Logical combination:
+Execution-Constraint-Content:: With focus on 6 areas
+Execution-Constraint-Reference:: [[002.001]], [[002.002]], [[002.003]], [[Reg-Tsunami-Alert|002.004]], [[002.005]], [[002.006]]
 
+Or-else::
+Or-else-Reference)::
 
-Invoking statement(s):
+Logical-combination::
 
-
-### Type: Constitutive statements
-
-Constituted Entity:
-	Constituted entity Property:
-
-Constituting Function:
-
-Constituted Properties:
-	Constituted Properties Property:
-
-Modal/Deontic:
-
-Activation Condition Content:
-	Activation Condition Reference:
-
-Execution Constraint Content:
-	Execution Constraint Reference:
-
-Or Else:
-	Forward Reference:
-
-Logical Combination:
-
-Invoking Statements:
-
+Invoking-statements::

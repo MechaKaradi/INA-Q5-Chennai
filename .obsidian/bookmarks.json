@@ -41,6 +41,62 @@
         "scale": 0.1919304464429595,
         "close": true
       }
+    },
+    {
+      "type": "graph",
+      "ctime": 1700051557136,
+      "title": "Attrbute Level Graph",
+      "options": {
+        "collapse-filter": false,
+        "search": "[\"statement-num\":]",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#Attribute  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "line:(Greater Chennai Corporation)",
+            "color": {
+              "a": 1,
+              "rgb": 7845348
+            }
+          },
+          {
+            "query": "line:(Control Room)",
+            "color": {
+              "a": 1,
+              "rgb": 11657298
+            }
+          },
+          {
+            "query": "line:(ReliefCommittee)",
+            "color": {
+              "a": 1,
+              "rgb": 14935592
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": -2.2,
+        "nodeSizeMultiplier": 1.61278586278586,
+        "lineSizeMultiplier": 1.26642411642412,
+        "collapse-forces": false,
+        "centerStrength": 0.304573804573805,
+        "repelStrength": 20,
+        "linkStrength": 1,
+        "linkDistance": 30,
+        "scale": 0.05167780766352682,
+        "close": false
+      }
     }
   ]
 }

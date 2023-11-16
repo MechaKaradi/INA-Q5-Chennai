@@ -2,6 +2,7 @@
 aliases: 
 section: Summary
 statement-num: "005"
+statement-type: "4"
 ---
 ## Statements 
 > [!info] Raw Statement
@@ -21,52 +22,30 @@ are outlined to ensure prompt response to disaster.
 
 ### Type: Regulatory Statements
 Attribute:: Concerned Departments
-	Attribute Property:
-Deontic:
+Attribute:: (Missing)
+Attribute-link::
+Attribute-Property::
 
-Aim:
+Deontic:: must
 
-Direct-Object:
-	Reference statement:
+Aim::  follow 
 
-Indirect-Object:
-	Reference statement:
-Activation Condition (Content):
-	Activation Condition (Reference to statement):
-Execution Constraint (Content):
-	Execution Constraint (Reference to statement): 
-Or else:
-	Or else (Forward reference):
+Direct-Object:: the SOP
+Direct-Object-Reference:: [[Reg-SOP-ddma]], [[Reg-SOP-Health]], [[Reg-SOP-ReliefCentre-PreRain]]
 
+Indirect-Object::
+Indirect-Object-Reference::
 
-Logical combination:
+Activation-Condition-Content:: in the event of a disaster
+Activation-Condition-Reference::
 
+Execution-Constraint-Content:: promptly
+Execution-Constraint-Reference::
 
-Invoking statement(s):
+Or-else::
+Or-else-Reference::
 
+Logical-combination::
 
-### Type: Constitutive statements
-
-Constituted Entity:
-	Constituted entity Property:
-
-Constituting Function:
-
-Constituted Properties:
-	Constituted Properties Property:
-
-Modal/Deontic:
-
-Activation Condition Content:
-	Activation Condition Reference:
-
-Execution Constraint Content:
-	Execution Constraint Reference:
-
-Or Else:
-	Forward Reference:
-
-Logical Combination:
-
-Invoking Statements:
+Invoking-statements::
 

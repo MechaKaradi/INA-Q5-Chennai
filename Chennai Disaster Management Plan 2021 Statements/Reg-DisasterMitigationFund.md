@@ -3,6 +3,7 @@ aliases:
   - "026"
 section: 7-Investing
 statement-num: "026"
+statement-type: "3"
 ---
 ## Statements 
 > [!info] Raw Statement

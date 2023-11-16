@@ -1,4 +1,5 @@
 ---
+statement-type: "2"
 aliases:
   - "009"
 section: 
@@ -16,7 +17,8 @@ statement-num: "009"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Control Room
-	Attribute Property::
+Attribute-link:: [[Control Room]]
+Attribute-Property::
 
 Deontic:: must
 
@@ -34,13 +36,11 @@ Activation-Condition-Content::
 	Activation-Condition-(Reference to statement)::
 
 Execution-Constraint-Content:: while providing the commissioner with hourly updates
-	Execution-Constraint-(Reference-to-statement):: [[009.002]]
+Execution-Constraint-Reference:: [[009.002]]
 
 Or-else::
-	Or-else-(Forward-reference)::
+Or-else-Reference::
 
 Logical-combination::
 
-AND
-
-Invoking-statement(s)::
+Invoking-statements::

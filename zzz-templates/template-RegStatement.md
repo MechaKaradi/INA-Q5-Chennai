@@ -12,28 +12,32 @@ section:
 <% tp.file.cursor() %><% tp.system.clipboard() %> 
 ## Components
 ### Type: Regulatory Statement
+
+Entity-Type:: Regulatory Statement
+
 Attribute:: (Missing)
-	Attribute Property::
+Attribute-link::
+Attribute-Property::
 
 Deontic::
 
 Aim::
 
 Direct-Object::
-	Reference-statement::
+Direct-Object-Reference::
 
 Indirect-Object::
-	Reference-statement::
+Indirect-Object-Reference::
 
 Activation-Condition-Content::
-	Activation-Condition-(Reference to statement)::
+Activation-Condition-Reference::
 
 Execution-Constraint-Content::
-	Execution-Constraint-(Reference-to-statement)::
+Execution-Constraint-Reference::
 
 Or-else::
-	Or-else-(Forward-reference)::
+Or-else-Reference::
 
 Logical-combination::
 
-Invoking-statement(s)::
+Invoking-statements::

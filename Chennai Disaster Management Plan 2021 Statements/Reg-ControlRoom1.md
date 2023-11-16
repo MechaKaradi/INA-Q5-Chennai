@@ -3,6 +3,7 @@ aliases:
   - "008"
 section: 3 - IFA
 statement-num: "008"
+statement-type: "1"
 ---
 ## Statements 
 > [!info] Raw Statement
@@ -18,28 +19,29 @@ The Control Room is functioning under overall supervision of the Joint /Deputy C
 ([Greater Chennai Corporation (GCC), 2021, p. xliii](zotero://select/library/items/AZZSXLC8)) ([pdf](zotero://open-pdf/library/items/ZWDYK52D?page=43&annotation=T942FSSR)) 
 ## Components
 ### Type: Regulatory Statement
-Attribute:: (Missing)
-	Attribute Property::
+Attribute:: Greater Chennai Corporation
+Attribute-link:: [[Greater Chennai Corporation|GCC]]
+Attribute-Property::
 
-Deontic::
+Deontic:: must
 
-Aim::
+Aim:: establish
 
-Direct-Object::
-	Reference-statement::
+Direct-Object:: Control Room
+Direct-Object-Reference:: [[Control Room]]
 
 Indirect-Object::
-	Reference-statement::
+Indirect-Object-Reference::
 
 Activation-Condition-Content::
-	Activation-Condition-(Reference to statement)::
+Activation-Condition-Reference::
 
 Execution-Constraint-Content::
-	Execution-Constraint-(Reference-to-statement)::
+Execution-Constraint-Reference::
 
 Or-else::
-	Or-else-(Forward-reference)::
+Or-else-Reference::
 
 Logical-combination::
 
-Invoking-statement(s)::
+Invoking-statements::

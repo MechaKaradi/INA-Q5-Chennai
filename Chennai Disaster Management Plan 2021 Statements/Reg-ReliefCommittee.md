@@ -4,6 +4,7 @@ aliases:
   - "007"
 section: 
 statement-num: "007"
+statement-type: "3"
 ---
 ## Statements 
 > [!info] Raw Statement
@@ -14,66 +15,31 @@ statement-num: "007"
 ## Components
 
 ### Type: Regulatory Statements
-Attribute:: [[Reg-ReliefCommittee|Relief Committee]]
-	Attribute Property: Consisting of: 
-	[[Commissioner GCC]]
-	[[Collector of Chennai]]
-	[[Executive Director Metro Water Chennai]]
-	[[Join Commissioner Police (Traffic)]]
-	[[Chief Engineer Highways and Rural Works]]
-	[[Chief Engineer PWD]]
-	Optional:
-	[[Chief Engineer MRTS]]
-	[[Deputy Director Fire Services]] 
+
+Attribute:: Relief Committee
+Attribute-link:: [[ReliefCommittee]]
+Attribute-Property::
 
 Deontic:: must
 
-Aim:: monitor Disaster Mitigation - [[Reg-ReliefCommitee-Functions|007.001]]
+Aim:: monitor Disaster Mitigation activites
 
-Direct-Object:
-	Reference statement:
+Direct-Object::
+Direct-Object-Reference::
 
-Indirect-Object:
-	Reference statement:
+Indirect-Object::
+Indirect-Object-Reference::
 
-Activation Condition (Content):
-	Activation Condition (Reference to statement):
+Activation-Condition-Content::
+Activation-Condition-Reference::
 
-Execution Constraint (Content): According to the duties assigned
-	Execution Constraint (Reference to statement): [[Reg-ReliefCommitee-Functions|007.001]]
+Execution-Constraint-Content:: According to the duties assigned
+Execution-Constraint-Reference:: [[Reg-ReliefCommitee-Functions|007.001]]
 
-Or else:
-	Or else (Forward reference):
+Or-else::
+Or-else-Reference::
 
+Logical-combination::
 
-Logical combination:
-
-
-Invoking statement(s):
-
-
-### Type: Constitutive statements
-
-Constituted Entity:
-	Constituted entity Property:
-
-Constituting Function:
-
-Constituted Properties:
-	Constituted Properties Property:
-
-Modal/Deontic:
-
-Activation Condition Content:
-	Activation Condition Reference:
-
-Execution Constraint Content:
-	Execution Constraint Reference:
-
-Or Else:
-	Forward Reference:
-
-Logical Combination:
-
-Invoking Statements:
+Invoking-statements::
 

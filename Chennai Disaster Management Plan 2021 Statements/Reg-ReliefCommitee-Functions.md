@@ -3,6 +3,7 @@ aliases:
   - "007.001"
 section: 3 - IFA
 statement-num: "007.001"
+statement-type: "3"
 ---
 ## Statements 
 > [!info] Raw Statement
