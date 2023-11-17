@@ -21,7 +21,7 @@ Deontic:: must
 Aim:: appoint for each Zone
 
 Direct-Object:: Monitoring Officers
-	Reference-statement:: Senior IAS Officers
+Direct-Object-Reference::  Senior IAS Officers
 
 Indirect-Object:: City Zone
 	Reference-statement::

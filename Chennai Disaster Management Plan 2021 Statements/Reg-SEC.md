@@ -22,7 +22,7 @@ Deontic:: must
 Aim:: establish disaster specific cells to analyse the risk profile
 
 Direct-Object:: Disaster Risk Reduction Strategies
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object:: SDMA
 	Reference-statement::

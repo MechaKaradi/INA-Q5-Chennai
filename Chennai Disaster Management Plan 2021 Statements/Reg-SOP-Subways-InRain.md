@@ -51,7 +51,7 @@ Deontic:: must
 Aim:: ensure roads remain functional during the rain
 
 Direct-Object:: Subways
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object::
 	Reference-statement::

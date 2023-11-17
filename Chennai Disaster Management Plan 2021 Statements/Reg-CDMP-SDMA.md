@@ -18,7 +18,8 @@ statement-type: "3"
 
 Entity-Type:: Regulatory Statement
 
-Attribute:: [[State Disaster Management Authority (SDMA)]]
+Attribute:: State Disaster Management Authority 
+Attribute-Test::[[State Disaster Management Authority (SDMA)]]
 	Attribute Property
 Deontic:: must/may
 

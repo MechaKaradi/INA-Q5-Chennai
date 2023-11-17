@@ -23,7 +23,8 @@ statement-type: "2"
 
 ## Components
 ### Type: Regulatory Statement
-Attribute:: [[Greater Chennai Corporation]]
+Attribute:: Greater Chennai Corporation
+Attribute-Test::[[Greater Chennai Corporation]]
 Attribute-Property::
 
 Deontic:: must 
@@ -31,7 +32,7 @@ Deontic:: must
 Aim:: monitor
 
 Direct-Object:: areas that experience frequent inundation. 
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object::
 	Reference-statement::

@@ -26,7 +26,8 @@ v. Accommodate NDRF in chosen place. Deploy them in selected location for evacua
 ([Greater Chennai Corporation (GCC), 2021, p. cxxxviii](zotero://select/library/items/AZZSXLC8)) ([pdf](zotero://open-pdf/library/items/ZWDYK52D?page=138&annotation=HM8SX8EP)) 
 ## Components
 ### Type: Regulatory Statement
-Attribute:: [[019|TNDRF]] or [[NDRF]]
+Attribute:: 019
+Attribute-Test::[[019|TNDRF]] or [[NDRF]]
 Attribute-Property::
 
 Deontic:: must

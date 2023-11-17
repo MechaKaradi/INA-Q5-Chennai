@@ -53,7 +53,8 @@ Diesel / Submersible pumps are provided in the needed location to drain out wate
 Road cut may be done in order to drain more water with safely sign boards. [[032.007]]
 ## Components
 ### Type: Regulatory Statement
-Attribute:: [[Greater Chennai Corporation]]
+Attribute:: Greater Chennai Corporation
+Attribute-Test::[[Greater Chennai Corporation]]
 Attribute-Property::
 
 Deontic:: must
@@ -61,7 +62,7 @@ Deontic:: must
 Aim:: respond (to)
 
 Direct-Object:: Rain
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object::
 	Reference-statement::

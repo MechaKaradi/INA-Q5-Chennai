@@ -18,7 +18,8 @@ statement-type: "1"
 
 ## Components
 ### Type: Regulatory Statement
-Attribute:: [[Greater Chennai Corporation]]
+Attribute:: Greater Chennai Corporation
+Attribute-Test::[[Greater Chennai Corporation]]
 Attribute-Property::
 
 Deontic:: must
@@ -26,7 +27,7 @@ Deontic:: must
 Aim:: maintain (facilities) to produce food packets
 
 Direct-Object:: Common Kitchens
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object::
 	Reference-statement::

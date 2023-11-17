@@ -25,7 +25,8 @@ Cleaning of sumps with Bleaching powder and filling fresh water
 
 ## Components
 ### Type: Regulatory Statement
-Attribute:: [[Greater Chennai Corporation]]
+Attribute:: Greater Chennai Corporation
+Attribute-Test::[[Greater Chennai Corporation]]
 Attribute-Property::
 
 Deontic:: must
@@ -33,7 +34,7 @@ Deontic:: must
 Aim:: be prepared for evacuations (from)
 
 Direct-Object:: high impact streets
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object::
 	Reference-statement::

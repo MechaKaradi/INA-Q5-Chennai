@@ -14,7 +14,8 @@ statement-type: "3"
 “The Government of Tamil Nadu will create a Disaster Mitigation Fund for undertaking disaster risk prevention and reduction through structural and non-structural measures to enhance the economic, social, health and cultural resilience/resistance of persons, communities and the state’s assets, as well as the environment.” ([Greater Chennai Corporation (GCC), 2021, p. cxxi](zotero://select/library/items/AZZSXLC8)) ([pdf](zotero://open-pdf/library/items/ZWDYK52D?page=121&annotation=N2W6VI46)) 
 ## Components
 ### Type: Regulatory Statement
-Attribute:: [[Government of Tamil Nadu]]
+Attribute:: Government of Tamil Nadu
+Attribute-Test::[[Government of Tamil Nadu]]
 Attribute-Property::
 
 Deontic:: must
@@ -22,7 +23,7 @@ Deontic:: must
 Aim:: create
 
 Direct-Object:: Disaster Mitigation Fund
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object::
 	Reference-statement::

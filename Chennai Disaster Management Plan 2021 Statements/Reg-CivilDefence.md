@@ -32,7 +32,7 @@ Deontic:: must
 Aim:: establish
 
 Direct-Object:: Civil Defence Corps
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object:: connected to NCC, NSS, NyKS
 	Reference-statement::

@@ -28,7 +28,7 @@ Deontic:: must
 Aim:: communicate updates to the 
 
 Direct-Object:: [[Con-StateReliefCommissioner|Commissioner of Revenue Administration]]
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object::
 	Reference-statement::

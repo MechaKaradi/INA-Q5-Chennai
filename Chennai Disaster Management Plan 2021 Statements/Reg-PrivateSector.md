@@ -30,7 +30,7 @@ Deontic:: must
 Aim:: engage and support 
 
 Direct-Object:: investments in better design and construction through Building Codes
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object:: 'Private Sector'
 	Reference-statement::

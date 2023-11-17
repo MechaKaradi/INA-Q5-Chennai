@@ -17,7 +17,8 @@ statement-type: "3"
 
 ## Components
 ### Type: Regulatory Statement
-Attribute:: [[State Disaster Management Authority (SDMA)]]
+Attribute:: State Disaster Management Authority 
+Attribute-Test::[[State Disaster Management Authority (SDMA)]]
 Attribute-Property:: chaired by [[Chief Minister]]
 
 Deontic:: must

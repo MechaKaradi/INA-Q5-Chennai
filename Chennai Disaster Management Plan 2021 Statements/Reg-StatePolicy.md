@@ -25,7 +25,7 @@ Deontic:: must
 Aim:: issue Government Orders and publish policy,
 
 Direct-Object:: Government Orders
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object:: 
 	Reference-statement::

@@ -14,7 +14,8 @@ statement-type: "8"
 “The NGO’s and volunteers have not only contributed for door to door distribution of relief materials but also for applying bleaching powder in the flood affected areas” ([Greater Chennai Corporation (GCC), 2021, p. xcv](zotero://select/library/items/AZZSXLC8)) ([pdf](zotero://open-pdf/library/items/ZWDYK52D?page=95&annotation=WJ799MH6)) 
 ## Components
 ### Type: Regulatory Statement
-Attribute:: [[Volunteer]]
+Attribute:: Volunteer
+Attribute-Test::[[Volunteer]]
 Attribute-Property::
 
 Deontic:: may

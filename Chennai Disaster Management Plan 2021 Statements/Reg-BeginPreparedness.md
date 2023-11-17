@@ -12,7 +12,8 @@ statement-num: "030"
 “The City starts its preparedness in the month of September every year” ([Greater Chennai Corporation (GCC), 2021, p. cxxv](zotero://select/library/items/AZZSXLC8)) ([pdf](zotero://open-pdf/library/items/ZWDYK52D?page=125&annotation=ERKFB284)) 
 ## Components
 ### Type: Regulatory Statement
-Attribute:: [[Greater Chennai Corporation]]
+Attribute:: Greater Chennai Corporation
+Attribute-Test::[[Greater Chennai Corporation]]
 Attribute-Property::
 
 Deontic:: must

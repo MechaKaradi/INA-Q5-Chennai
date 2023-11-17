@@ -48,7 +48,8 @@ Manhole cover to be in good condition, damaged one to be replaced [[031.009]]
 Streets where SWD Require Cleaning [[031.011]]
 ## Components
 ### Type: Regulatory Statement
-Attribute:: [[Greater Chennai Corporation]]
+Attribute:: Greater Chennai Corporation
+Attribute-Test::[[Greater Chennai Corporation]]
 Attribute-Property::
 
 Deontic:: must
@@ -56,7 +57,7 @@ Deontic:: must
 Aim:: prepare for the coming monsoon
 
 Direct-Object:: Waterways
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object::
 	Reference-statement::

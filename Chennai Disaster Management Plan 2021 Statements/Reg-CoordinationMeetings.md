@@ -26,7 +26,7 @@ Deontic:: must
 Aim:: convene meeting
 
 Direct-Object:: with all central and state agencies 
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object::
 	Reference-statement::

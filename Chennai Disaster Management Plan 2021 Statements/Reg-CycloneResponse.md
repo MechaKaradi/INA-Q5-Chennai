@@ -24,7 +24,8 @@ G.C.C workers totaling to 19,411 were rushed in for the restoration work.
 “The Corporation also availed the services of **Indian Meteorological Department, National Disaster Response Force(NDRF), State Disaster Response Force(SDRF), Fire and Rescue Services Department and Health and Family Welfare Department strategically.** Medical teams with all necessary medical equipments were pressed into service.” (Greater Chennai Corporation (GCC), 2021, p. lv)
 ## Components
 ### Type: Regulatory Statement
-Attribute:: [[Greater Chennai Corporation]]
+Attribute:: Greater Chennai Corporation
+Attribute-Test::[[Greater Chennai Corporation]]
 Attribute-Property::
 
 Deontic:: must
@@ -32,7 +33,7 @@ Deontic:: must
 Aim:: mobilise 
 
 Direct-Object:: human resources, saws, excavators and lorries
-	Reference-statement:: [[023.001]]
+Direct-Object-Reference::  [[023.001]]
 
 Indirect-Object:: Departments to support
 	Reference-statement:: [[023.002]]

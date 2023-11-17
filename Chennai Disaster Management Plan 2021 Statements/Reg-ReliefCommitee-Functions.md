@@ -23,7 +23,8 @@ statement-type: "3"
 ## Components
 
 ### Type: Regulatory Statements
-Attribute:: [[ReliefCommittee]] 
+Attribute:: ReliefCommittee
+Attribute-Test::[[ReliefCommittee]] 
 	Attribute Property:
 Deontic:
 

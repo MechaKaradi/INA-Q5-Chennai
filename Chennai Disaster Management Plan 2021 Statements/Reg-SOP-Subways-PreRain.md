@@ -34,7 +34,8 @@ Preparedness of Manpower (Pump Operators?) [[037.002]]
 
 ## Components
 ### Type: Regulatory Statement
-Attribute:: [[Greater Chennai Corporation]]
+Attribute:: Greater Chennai Corporation
+Attribute-Test::[[Greater Chennai Corporation]]
 Attribute-Property::
 
 Deontic:: must
@@ -42,7 +43,7 @@ Deontic:: must
 Aim:: maintain 
 
 Direct-Object:: Subways
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object::
 	Reference-statement::

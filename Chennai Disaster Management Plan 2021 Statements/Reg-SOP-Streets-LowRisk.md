@@ -29,7 +29,8 @@ viii. Mobile Super Sucker & Pumps to pump out water.
 ix. Identify the location and route through which water can be pumped out.” (Greater Chennai Corporation (GCC), 2021, p. cxxxiv)
 ## Components
 ### Type: Regulatory Statement
-Attribute:: [[Greater Chennai Corporation]]
+Attribute:: Greater Chennai Corporation
+Attribute-Test::[[Greater Chennai Corporation]]
 Attribute-Property::
 
 Deontic:: must
