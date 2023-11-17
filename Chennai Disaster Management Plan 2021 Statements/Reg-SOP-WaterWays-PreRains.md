@@ -49,7 +49,7 @@ Streets where SWD Require Cleaning [[031.011]]
 ## Components
 ### Type: Regulatory Statement
 Attribute:: [[Greater Chennai Corporation]]
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: must
 

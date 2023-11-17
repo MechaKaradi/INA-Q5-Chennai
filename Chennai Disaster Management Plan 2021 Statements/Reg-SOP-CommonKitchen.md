@@ -19,7 +19,7 @@ statement-type: "1"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: [[Greater Chennai Corporation]]
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: must
 

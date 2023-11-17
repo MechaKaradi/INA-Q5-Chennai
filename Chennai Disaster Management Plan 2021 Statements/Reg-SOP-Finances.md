@@ -19,7 +19,7 @@ statement-type: "4"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: [[Greater Chennai Corporation]] Financial Advisor? 
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: may
 

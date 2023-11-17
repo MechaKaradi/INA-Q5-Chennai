@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "43db1a1f9e367819",
+        "id": "d5340dff89dbba4f",
         "type": "tabs",
+        "dimension": 37.39946380697051,
         "children": [
           {
             "id": "0a7cbf1dad152207",
@@ -21,18 +22,20 @@
               },
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "43db1a1f9e367819",
+        "type": "tabs",
+        "dimension": 62.60053619302949,
+        "children": [
           {
             "id": "3eab3da347e34d6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Analytics/Fields Reference.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -43,8 +46,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,11 +92,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9302a1914bef9261",
@@ -110,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Analytics/Fields Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Analytics/Fields Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 Analytics/Fields Reference.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,9 +177,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "01 Analytics/Fields Reference.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -203,10 +201,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3eab3da347e34d6b",
+  "active": "c83ba982b45bbf26",
   "lastOpenFiles": [
+    "Chennai Disaster Management Plan 2021 Statements/002.001.md",
     "01 Analytics/Statement Breakdown Table.md",
+    "Chennai Disaster Management Plan 2021 Statements/035.001.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-Mainstreaming-DP.md",
+    "Chennai Disaster Management Plan 2021 Statements/023.002.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-SEC.md",
+    "Chennai Disaster Management Plan 2021 Statements/Con-CDMP.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-StateDMA.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-ControlRoom1.md",
     "Chennai Disaster Management Plan 2021 Statements/Reg-ReliefCommitee-Functions.md",
+    "Chennai Disaster Management Plan 2021 Statements/002.005.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-CDMP-SDMA.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-CDMP-objectives.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-CDMP-DDMA.md",
+    "Chennai Disaster Management Plan 2021 Statements/007.003.md",
+    "01 Analytics/Fields Reference.md",
     "Chennai Disaster Management Plan 2021 Statements/007.002.md",
     "Chennai Disaster Management Plan 2021 Statements/Reg-ReliefCommittee.md",
     "Chennai Disaster Management Plan 2021 Statements/ReliefCommittee.md",
@@ -217,22 +229,8 @@
     "table-export-001.csv",
     "temp.md",
     "zzz-templates/template-RegStatement.md",
-    "01 Analytics/Fields Reference.md",
     "Chennai Disaster Management Plan 2021 Statements/009.002.md",
     "Chennai Disaster Management Plan 2021 Statements/Reg-ControlRoom-Functions.md",
-    "Chennai Disaster Management Plan 2021 Statements/009.001.md",
-    "Chennai Disaster Management Plan 2021 Statements/Indian Tsunami Early Warning Centre (ITEWC).md",
-    "Chennai Disaster Management Plan 2021 Statements/008.003.md",
-    "Chennai Disaster Management Plan 2021 Statements/008.002.md",
-    "Chennai Disaster Management Plan 2021 Statements/Control Room.md",
-    "Chennai Disaster Management Plan 2021 Statements/Deputy Commissioners.md",
-    "zzz-templates/template-Object.md",
-    "Chennai Disaster Management Plan 2021 Statements/Con-GCC-AdmStruc.md",
-    "Chennai Disaster Management Plan 2021 Statements/008.001.md",
-    "Chennai Disaster Management Plan 2021 Statements/Reg-ControlRoom1.md",
-    "Chennai Disaster Management Plan 2021 Statements/007.007.md",
-    "Chennai Disaster Management Plan 2021 Statements/007.005.md",
-    "Chennai Disaster Management Plan 2021 Statements/007.006.md",
     "01 Analytics/Untitled.canvas",
     "zzzz-scripts/statementnum.js",
     "zzzz-scripts/statement-num.js",

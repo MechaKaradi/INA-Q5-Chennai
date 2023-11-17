@@ -23,7 +23,7 @@ Greater Chennai Corporation has been working with the private sector to restore 
 ## Components
 ### Type: Regulatory Statement
 Attribute:: ??
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: must
 

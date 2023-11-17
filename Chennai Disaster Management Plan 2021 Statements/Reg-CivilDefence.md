@@ -25,7 +25,7 @@ are also proposed to be integrated in the overall Disaster Management framework 
 ## Components
 ### Type: Regulatory Statement
 Attribute:: State Government - [[State Disaster Management Authority (SDMA)]]
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: must
 

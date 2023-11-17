@@ -17,7 +17,7 @@ into land use policy development and implementation, including urban planning, l
 ## Components
 ### Type: Regulatory Statement
 Attribute:: [[Government of Tamil Nadu]]
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: will
 

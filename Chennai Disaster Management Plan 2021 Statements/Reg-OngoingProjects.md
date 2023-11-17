@@ -15,7 +15,7 @@ statement-type: "7"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: [[Government of Tamil Nadu]]
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: will
 

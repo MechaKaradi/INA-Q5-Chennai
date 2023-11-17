@@ -30,7 +30,7 @@ ix. Identify the location and route through which water can be pumped out.” (G
 ## Components
 ### Type: Regulatory Statement
 Attribute:: [[Greater Chennai Corporation]]
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: must
 

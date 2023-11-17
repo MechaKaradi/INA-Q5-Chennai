@@ -15,7 +15,7 @@ statement-type: "2"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: [[Reg-ControlRoom1|Control Room]] 
-	Attribute Property:: at the [[Greater Chennai Corporation]]
+Attribute-Property:: at the [[Greater Chennai Corporation]]
 
 Deontic:: must
 

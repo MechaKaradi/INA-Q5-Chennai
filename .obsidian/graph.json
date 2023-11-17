@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "[\"statement-num\":",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,59 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "[\"statement-type\":1",
+      "query": "[\"section\":]",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "[\"statement-type\":2",
+      "query": "",
       "color": {
         "a": 1,
         "rgb": 14725458
-      }
-    },
-    {
-      "query": "[\"statement-type\":3",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "[\"statement-type\":4",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "[\"statement-type\":5",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "[\"statement-type\":6",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "[\"statement-type\":7",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "[\"statement-type\":8",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
       }
     }
   ],
@@ -71,9 +29,9 @@
   "lineSizeMultiplier": 1.81143451143451,
   "collapse-forces": false,
   "centerStrength": 0.246361746361746,
-  "repelStrength": 13.4927234927235,
+  "repelStrength": 6.59043659043659,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.1052138548868806,
-  "close": false
+  "scale": 0.1919304464429595,
+  "close": true
 }

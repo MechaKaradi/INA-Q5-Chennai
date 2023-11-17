@@ -15,7 +15,7 @@ statement-type: "8"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: [[Volunteer]]
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: may
 

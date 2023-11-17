@@ -54,7 +54,7 @@ Road cut may be done in order to drain more water with safely sign boards. [[032
 ## Components
 ### Type: Regulatory Statement
 Attribute:: [[Greater Chennai Corporation]]
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: must
 

@@ -18,7 +18,7 @@ statement-type: "5"
 
 ### Type: Regulatory Statements
 Attribute:: Revenue Administration and Disaster Management Department
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: must
 

@@ -35,7 +35,7 @@ Preparedness of Manpower (Pump Operators?) [[037.002]]
 ## Components
 ### Type: Regulatory Statement
 Attribute:: [[Greater Chennai Corporation]]
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: must
 

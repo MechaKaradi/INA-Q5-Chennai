@@ -14,7 +14,7 @@ statement-type: "4"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: State Government
-	Attribute Property:: 
+Attribute-Property:: 
 
 Deontic:: must
 

@@ -44,7 +44,7 @@ Preparedness of manpower [[037.002]]
 ## Components
 ### Type: Regulatory Statement
 Attribute:: (Missing)
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: must
 

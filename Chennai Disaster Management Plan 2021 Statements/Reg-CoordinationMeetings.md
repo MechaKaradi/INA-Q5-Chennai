@@ -19,7 +19,7 @@ statement-type: "1"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Chief Secretary 
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: must
 

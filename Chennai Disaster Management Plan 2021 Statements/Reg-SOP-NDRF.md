@@ -27,7 +27,7 @@ v. Accommodate NDRF in chosen place. Deploy them in selected location for evacua
 ## Components
 ### Type: Regulatory Statement
 Attribute:: [[019|TNDRF]] or [[NDRF]]
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: must
 

@@ -50,7 +50,7 @@ statement-type: "2"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: (Missing)
-	Attribute Property::
+Attribute-Property::
 
 Deontic::
 

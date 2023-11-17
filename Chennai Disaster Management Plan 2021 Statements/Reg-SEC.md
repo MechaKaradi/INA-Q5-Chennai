@@ -15,7 +15,7 @@ statement-type: "3"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: State Executive Committee
-	Attribute Property:: 
+Attribute-Property:: 
 
 Deontic:: must 
 

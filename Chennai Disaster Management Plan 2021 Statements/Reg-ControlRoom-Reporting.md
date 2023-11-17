@@ -21,7 +21,7 @@ collects information on the search, rescue, relief and rehabilitation operations
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Control Room
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: must
 

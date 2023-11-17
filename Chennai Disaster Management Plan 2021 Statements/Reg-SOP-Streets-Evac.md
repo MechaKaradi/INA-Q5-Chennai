@@ -26,7 +26,7 @@ Cleaning of sumps with Bleaching powder and filling fresh water
 ## Components
 ### Type: Regulatory Statement
 Attribute:: [[Greater Chennai Corporation]]
-	Attribute Property::
+Attribute-Property::
 
 Deontic:: must
 
