@@ -24,16 +24,16 @@ Direct-Object:: Monitoring Officers
 Direct-Object-Reference::  Senior IAS Officers
 
 Indirect-Object:: City Zone
-	Reference-statement::
+Indirect-Object-Reference:: 
 
 Activation-Condition-Content:: Due to severe flooding
-	Activation-Condition-(Reference to statement)::
+Activation-Condition-Reference:: 
 
 Execution-Constraint-Content:: for relief coordination 
-	Execution-Constraint-(Reference-to-statement)::
+Execution-Constraint-Reference:: 
 
 Or-else::
-	Or-else-(Forward-reference)::
+Or-else-Reference:: 
 
 Logical-combination::
 

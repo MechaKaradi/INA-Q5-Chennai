@@ -38,19 +38,19 @@ Deontic:: must
 Aim:: plan strategies for Low Risk Streets
 
 Direct-Object::
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object::
-	Reference-statement::
+Indirect-Object-Reference:: 
 
 Activation-Condition-Content::
-	Activation-Condition-(Reference to statement)::
+Activation-Condition-Reference:: 
 
 Execution-Constraint-Content::
-	Execution-Constraint-(Reference-to-statement)::
+Execution-Constraint-Reference:: 
 
 Or-else::
-	Or-else-(Forward-reference)::
+Or-else-Reference:: 
 
 Logical-combination::
 

@@ -28,16 +28,16 @@ Direct-Object:: flood forecasting Decision Support System
 Direct-Object-Reference:: 
 
 Indirect-Object:: Under [[TNUSDP|Tamil Nadu Sustainable Urban Development Project]]
-	Reference-statement::
+Indirect-Object-Reference:: 
 
 Activation-Condition-Content::
-	Activation-Condition-(Reference to statement)::
+Activation-Condition-Reference:: 
 
 Execution-Constraint-Content::
-	Execution-Constraint-(Reference-to-statement)::
+Execution-Constraint-Reference:: 
 
 Or-else::
-	Or-else-(Forward-reference)::
+Or-else-Reference:: 
 
 Logical-combination::
 

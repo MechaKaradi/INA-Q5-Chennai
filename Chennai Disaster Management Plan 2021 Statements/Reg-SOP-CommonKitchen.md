@@ -30,16 +30,16 @@ Direct-Object:: Common Kitchens
 Direct-Object-Reference:: 
 
 Indirect-Object::
-	Reference-statement::
+Indirect-Object-Reference:: 
 
 Activation-Condition-Content::
-	Activation-Condition-(Reference to statement)::
+Activation-Condition-Reference:: 
 
 Execution-Constraint-Content:: “In each common kitchen one Sanitary Inspector will be posted round the clock to monitor food preparation & food hygiene.” (Greater Chennai Corporation (GCC), 2021, p. cxxviii)
-	Execution-Constraint-(Reference-to-statement):: [[036.001]]
+Execution-Constraint-Reference::  [[036.001]]
 
 Or-else::
-	Or-else-(Forward-reference)::
+Or-else-Reference:: 
 
 Logical-combination:: AND, [[036.002]], [[036.003]], [[036.004]], [[036.005]]
 

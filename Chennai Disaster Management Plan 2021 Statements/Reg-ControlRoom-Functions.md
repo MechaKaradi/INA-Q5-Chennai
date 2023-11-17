@@ -27,13 +27,13 @@ Aim:: Coordinate activities for rescue, relief, and mitigation
 [[009.003]]
 
 Direct-Object::
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object::
-	Reference-statement::
+Indirect-Object-Reference:: 
 
 Activation-Condition-Content::
-	Activation-Condition-(Reference to statement)::
+Activation-Condition-Reference:: 
 
 Execution-Constraint-Content:: while providing the commissioner with hourly updates
 Execution-Constraint-Reference:: [[009.002]]

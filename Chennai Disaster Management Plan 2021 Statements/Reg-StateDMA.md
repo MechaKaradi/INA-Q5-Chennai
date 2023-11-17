@@ -26,19 +26,19 @@ Deontic:: must
 Aim:: coordianate Disaster Response and Mitigation
 
 Direct-Object::
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object::
-	Reference-statement::
+Indirect-Object-Reference:: 
 
 Activation-Condition-Content::
-	Activation-Condition-(Reference to statement)::
+Activation-Condition-Reference:: 
 
 Execution-Constraint-Content:: “All measures for mitigation, preparedness, response and recovery are undertaken under the guidance and supervision of the Authority. 
-	Execution-Constraint-(Reference-to-statement)::
+Execution-Constraint-Reference:: 
 
 Or-else::
-	Or-else-(Forward-reference)::
+Or-else-Reference:: 
 
 Logical-combination::
 

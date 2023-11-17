@@ -23,19 +23,19 @@ Deontic:: may
 Aim:: volunteer for disaster relief activities
 
 Direct-Object::
-	Reference-statement::
+Direct-Object-Reference:: 
 
 Indirect-Object:: [[Greater Chennai Corporation]]
-	Reference-statement::
+Indirect-Object-Reference:: 
 
 Activation-Condition-Content::
-	Activation-Condition-(Reference to statement)::
+Activation-Condition-Reference:: 
 
 Execution-Constraint-Content:: with the guidance and support of GCC
-	Execution-Constraint-(Reference-to-statement)::
+Execution-Constraint-Reference:: 
 
 Or-else::
-	Or-else-(Forward-reference)::
+Or-else-Reference:: 
 
 Logical-combination::
 

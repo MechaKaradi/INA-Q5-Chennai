@@ -60,16 +60,16 @@ Direct-Object:: Waterways
 Direct-Object-Reference:: 
 
 Indirect-Object::
-	Reference-statement::
+Indirect-Object-Reference:: 
 
 Activation-Condition-Content:: [[Reg-BeginPreparedness]]
-	Activation-Condition-(Reference to statement)::
+Activation-Condition-Reference:: 
 
 Execution-Constraint-Content::
-	Execution-Constraint-(Reference-to-statement)::
+Execution-Constraint-Reference:: 
 
 Or-else::
-	Or-else-(Forward-reference)::
+Or-else-Reference:: 
 
 Logical-combination::
 

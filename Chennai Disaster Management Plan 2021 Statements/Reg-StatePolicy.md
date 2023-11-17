@@ -28,16 +28,16 @@ Direct-Object:: Government Orders
 Direct-Object-Reference:: 
 
 Indirect-Object:: 
-	Reference-statement::
+Indirect-Object-Reference:: 
 
 Activation-Condition-Content:: when given approval by the SDMA, State Executive Committee and the Commissioner of Revenue Administration
-	Activation-Condition-(Reference to statement):: [[014.001]]
+Activation-Condition-Reference::  [[014.001]]
 
 Execution-Constraint-Content:: Revenue Administration and Disaster Management Department
-	Execution-Constraint-(Reference-to-statement)::
+Execution-Constraint-Reference:: 
 
 Or-else::
-	Or-else-(Forward-reference)::
+Or-else-Reference:: 
 
 Logical-combination::
 

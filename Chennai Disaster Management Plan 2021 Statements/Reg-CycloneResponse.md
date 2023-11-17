@@ -36,16 +36,16 @@ Direct-Object:: human resources, saws, excavators and lorries
 Direct-Object-Reference::  [[023.001]]
 
 Indirect-Object:: Departments to support
-	Reference-statement:: [[023.002]]
+Indirect-Object-Reference::  [[023.002]]
 
 Activation-Condition-Content::
-	Activation-Condition-(Reference to statement)::
+Activation-Condition-Reference:: 
 
 Execution-Constraint-Content:: 
-	Execution-Constraint-(Reference-to-statement):: [[023.003]]
+Execution-Constraint-Reference::  [[023.003]]
 
 Or-else::
-	Or-else-(Forward-reference)::
+Or-else-Reference:: 
 
 Logical-combination::
 
