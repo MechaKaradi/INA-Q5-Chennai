@@ -44,8 +44,8 @@
     },
     {
       "type": "graph",
-      "ctime": 1700051557136,
-      "title": "Attrbute Level Graph",
+      "ctime": 1700257937202,
+      "title": "Attribute Graph",
       "options": {
         "collapse-filter": false,
         "search": "[\"statement-num\":]",
@@ -86,15 +86,15 @@
         ],
         "collapse-display": false,
         "showArrow": false,
-        "textFadeMultiplier": -2.2,
+        "textFadeMultiplier": -3,
         "nodeSizeMultiplier": 1.61278586278586,
         "lineSizeMultiplier": 1.26642411642412,
         "collapse-forces": false,
-        "centerStrength": 0.304573804573805,
-        "repelStrength": 20,
+        "centerStrength": 0.208939708939709,
+        "repelStrength": 10.0831600831601,
         "linkStrength": 1,
-        "linkDistance": 30,
-        "scale": 0.05167780766352682,
+        "linkDistance": 304,
+        "scale": 0.14061426367515353,
         "close": false
       }
     }

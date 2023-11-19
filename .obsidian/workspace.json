@@ -6,7 +6,6 @@
       {
         "id": "d5340dff89dbba4f",
         "type": "tabs",
-        "dimension": 37.39946380697051,
         "children": [
           {
             "id": "0a7cbf1dad152207",
@@ -22,16 +21,9 @@
               },
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "43db1a1f9e367819",
-        "type": "tabs",
-        "dimension": 62.60053619302949,
-        "children": [
+          },
           {
-            "id": "3eab3da347e34d6b",
+            "id": "dd0d71645ebfdc20",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -39,14 +31,20 @@
             }
           },
           {
-            "id": "8a004e2294fbb776",
+            "id": "d276eed8221f5d4b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chennai Disaster Management Plan 2021 Statements/007.004.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 Analytics/Statement Breakdown Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 Analytics/Statement Breakdown Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 Analytics/Statement Breakdown Table.md"
+              }
             }
           },
           {
@@ -177,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "01 Analytics/Statement Breakdown Table.md"
+              }
             }
           }
         ]
@@ -201,10 +204,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c83ba982b45bbf26",
+  "active": "dd0d71645ebfdc20",
   "lastOpenFiles": [
-    "Chennai Disaster Management Plan 2021 Statements/002.001.md",
+    "Chennai Disaster Management Plan 2021 Statements/007.004.md",
+    "Chennai Disaster Management Plan 2021 Statements/002.006.md",
     "01 Analytics/Statement Breakdown Table.md",
+    "Chennai Disaster Management Plan 2021 Statements/002.005.md",
+    "01 Analytics/Statement Type DataView.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-SOP-Finances.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-SOP-CommonKitchen.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-DisasterMitigationFund.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-CycloneResponse.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-OngoingProjects.md",
+    "Chennai Disaster Management Plan 2021 Statements/002.002.md",
+    "Chennai Disaster Management Plan 2021 Statements/002.001.md",
+    "Chennai Disaster Management Plan 2021 Statements/007.007.md",
+    "Chennai Disaster Management Plan 2021 Statements/002.005.02.md",
+    "Chennai Disaster Management Plan 2021 Statements/045.010.md",
+    "Chennai Disaster Management Plan 2021 Statements/045.001.md",
     "Chennai Disaster Management Plan 2021 Statements/035.001.md",
     "Chennai Disaster Management Plan 2021 Statements/Reg-Mainstreaming-DP.md",
     "Chennai Disaster Management Plan 2021 Statements/023.002.md",
@@ -213,24 +230,10 @@
     "Chennai Disaster Management Plan 2021 Statements/Reg-StateDMA.md",
     "Chennai Disaster Management Plan 2021 Statements/Reg-ControlRoom1.md",
     "Chennai Disaster Management Plan 2021 Statements/Reg-ReliefCommitee-Functions.md",
-    "Chennai Disaster Management Plan 2021 Statements/002.005.md",
     "Chennai Disaster Management Plan 2021 Statements/Reg-CDMP-SDMA.md",
     "Chennai Disaster Management Plan 2021 Statements/Reg-CDMP-objectives.md",
-    "Chennai Disaster Management Plan 2021 Statements/Reg-CDMP-DDMA.md",
-    "Chennai Disaster Management Plan 2021 Statements/007.003.md",
-    "01 Analytics/Fields Reference.md",
-    "Chennai Disaster Management Plan 2021 Statements/007.002.md",
-    "Chennai Disaster Management Plan 2021 Statements/Reg-ReliefCommittee.md",
-    "Chennai Disaster Management Plan 2021 Statements/ReliefCommittee.md",
-    "Chennai Disaster Management Plan 2021 Statements/Reg-SOP-TreeFall.md",
-    "Chennai Disaster Management Plan 2021 Statements/009.003.md",
-    "Chennai Disaster Management Plan 2021 Statements/039.004.md",
     "statementtypeexport151123.csv",
     "table-export-001.csv",
-    "temp.md",
-    "zzz-templates/template-RegStatement.md",
-    "Chennai Disaster Management Plan 2021 Statements/009.002.md",
-    "Chennai Disaster Management Plan 2021 Statements/Reg-ControlRoom-Functions.md",
     "01 Analytics/Untitled.canvas",
     "zzzz-scripts/statementnum.js",
     "zzzz-scripts/statement-num.js",
