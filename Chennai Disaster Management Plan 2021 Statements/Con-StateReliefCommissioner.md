@@ -21,6 +21,7 @@ statement-num: "013"
 
 ### Type: Constitutive statements
 Attribute::State Relief Commissioner
+
 Constituted Entity: State Relief Commissioner
 	Constituted entity Property: Commissioner of Revenue Administration
 
@@ -31,7 +32,9 @@ Constituted Properties:
 
 Modal/Deontic:: assigned to 
 
+
 Activation Condition:: 
+
 	Activation Condition Reference:
 
 Execution Constraint Content:

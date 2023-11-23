@@ -13,29 +13,46 @@ statement-num: "030"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Greater Chennai Corporation
+
 Attribute-Test::[[Greater Chennai Corporation]]
+
 Attribute-Property::
+
 
 Deontic:: must
 
+
 Aim:: begin preparedness activities
 
+
 Direct-Object::
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object::
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content:: in September
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content::
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
+
 
 Logical-combination::
 
+
 Invoking-statement(s)::
+
 

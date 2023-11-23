@@ -20,7 +20,9 @@ will be coordinated by the Control Room.” (Greater Chennai Corporation (GCC), 
 
 ### Type: Regulatory Statements
 Attribute:: Control Room
+
 Attribute-link:: [[Control Room]]
+
 Attribute-Property::
 
 Deontic:: must
@@ -28,19 +30,25 @@ Deontic:: must
 Aim:: disseminate or coordinate
 
 Direct-Object:: information
-	Reference statement:
+
+Direct-Object-Reference::
 
 Indirect-Object:: to the public
-	Reference statement:
-Activation Condition (Content):
-	Activation Condition (Reference to statement):
-Execution Constraint (Content):
-	Execution Constraint (Reference to statement): 
-Or else:
-	Or else (Forward reference):
 
+Indirect-Object-Reference::
+
+Activation-Condition-Content::
+
+Activation-Condition-Reference::
+
+Execution-Constraint-Content::
+
+Execution-Constraint-Reference::
+
+Or-else::
+
+Or-else-Forward::
 
 Logical combination:
-
 
 Invoking statement(s):

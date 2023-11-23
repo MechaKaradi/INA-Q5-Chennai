@@ -14,27 +14,42 @@ statement-type: "4"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: State Government
+
 Attribute-Property:: 
+
 
 Deontic:: must
 
+
 Aim:: appoint for each Zone
 
+
 Direct-Object:: Monitoring Officers
+
 Direct-Object-Reference::  Senior IAS Officers
 
+
 Indirect-Object:: City Zone
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content:: Due to severe flooding
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content:: for relief coordination 
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

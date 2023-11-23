@@ -43,28 +43,44 @@ During Rain
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Greater Chennai Corporation
+
 Attribute-Test::[[Greater Chennai Corporation]]
+
 Attribute-Property::
+
 
 Deontic:: must 
 
+
 Aim:: ensure removal and disposal (of)
 
+
 Direct-Object:: fallen trees (on)
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object:: roads 
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content::
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

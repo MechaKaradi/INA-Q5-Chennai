@@ -17,29 +17,46 @@ statement-type: "3"
 ### Type: Regulatory Statements
 
 Attribute:: Relief Committee
+
 Attribute-link:: [[ReliefCommittee]]
+
 Attribute-Property::
+
 
 Deontic:: must
 
+
 Aim:: monitor Disaster Mitigation activites
 
+
 Direct-Object::
+
 Direct-Object-Reference::
 
+
 Indirect-Object::
+
 Indirect-Object-Reference::
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference::
 
+
 Execution-Constraint-Content:: According to the duties assigned
+
 Execution-Constraint-Reference:: [[Reg-ReliefCommitee-Functions|007.001]]
 
+
 Or-else::
+
 Or-else-Reference::
+
 
 Logical-combination::
 
+
 Invoking-statements::
+
 

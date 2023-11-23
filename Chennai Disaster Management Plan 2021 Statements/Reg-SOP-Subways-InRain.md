@@ -44,27 +44,42 @@ Preparedness of manpower [[037.002]]
 ## Components
 ### Type: Regulatory Statement
 Attribute:: (Missing)
+
 Attribute-Property::
+
 
 Deontic:: must
 
+
 Aim:: ensure roads remain functional during the rain
 
+
 Direct-Object:: Subways
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object::
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content::
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

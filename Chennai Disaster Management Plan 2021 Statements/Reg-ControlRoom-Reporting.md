@@ -21,27 +21,42 @@ collects information on the search, rescue, relief and rehabilitation operations
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Control Room
+
 Attribute-Property::
+
 
 Deontic:: must
 
+
 Aim:: communicate updates to the 
 
+
 Direct-Object:: [[Con-StateReliefCommissioner|Commissioner of Revenue Administration]]
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object::
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content::
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

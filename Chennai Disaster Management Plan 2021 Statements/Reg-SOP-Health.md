@@ -17,28 +17,44 @@ statement-type: "2"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Greater Chennai Corporation
+
 Attribute-Test::[[Greater Chennai Corporation]]
+
 Attribute-Property::
+
 
 Deontic:: must
 
+
 Aim:: deploy staff to each relied centre to ensure Health and Hygiene
 
+
 Direct-Object:: Medical Officer, Paramedical Staff, Sanitatry Inspector
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object::
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content:: [[043.001]]
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

@@ -24,7 +24,9 @@ statement-type: "3"
 
 ### Type: Regulatory Statements
 Attribute:: ReliefCommittee
+
 Attribute-Test::[[ReliefCommittee]] 
+
 	Attribute Property:
 Deontic:
 

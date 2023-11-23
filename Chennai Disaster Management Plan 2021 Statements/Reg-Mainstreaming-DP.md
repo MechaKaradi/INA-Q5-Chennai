@@ -17,28 +17,44 @@ into land use policy development and implementation, including urban planning, l
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Government of Tamil Nadu
+
 Attribute-Test::[[Government of Tamil Nadu]]
+
 Attribute-Property::
+
 
 Deontic:: will
 
+
 Aim:: promote the mainstreaming of disaster risk assessments
 
+
 Direct-Object:: into urban planning and land use planning
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object::
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content::
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

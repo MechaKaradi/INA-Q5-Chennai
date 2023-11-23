@@ -25,22 +25,31 @@ followed by “Unit offices” headed by Assistant Executive Engineer and “Div
 
 ### Type: Regulatory Statements
 Attribute:: (Missing)
-	Attribute Property:
+
+Attribute Property:
+
 Deontic:
 
 Aim:
 
 Direct-Object:
-	Reference statement:
+
+Direct-Object-Reference::
 
 Indirect-Object:
-	Reference statement:
+
+Indirect-Object-Reference::
+
 Activation Condition (Content):
-	Activation Condition (Reference to statement):
+
+Activation-Condition-Reference::
+
 Execution Constraint (Content):
-	Execution Constraint (Reference to statement): 
-Or else:
-	Or else (Forward reference):
+
+Execution-Condition-Reference:: 
+
+Or else::
+Or-else-Reference::
 
 
 Logical combination:

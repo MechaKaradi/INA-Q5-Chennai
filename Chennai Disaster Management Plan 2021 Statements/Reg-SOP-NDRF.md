@@ -27,28 +27,44 @@ v. Accommodate NDRF in chosen place. Deploy them in selected location for evacua
 ## Components
 ### Type: Regulatory Statement
 Attribute:: 019
+
 Attribute-Test::[[019|TNDRF]] or [[NDRF]]
+
 Attribute-Property::
+
 
 Deontic:: must
 
+
 Aim:: deploy to chosen locations for relief and evacuation support
 
+
 Direct-Object::
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object::
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content::
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

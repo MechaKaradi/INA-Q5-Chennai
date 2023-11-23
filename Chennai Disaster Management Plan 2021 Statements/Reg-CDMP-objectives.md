@@ -37,28 +37,44 @@ vi. Working in close quarters with State Disaster Centre regularly to get disast
 
 ### Type: Regulatory Statements
 Attribute:: Greater Chennai Corporation
+
 Attribute-link:: [[Greater Chennai Corporation]]
+
 Attribute-Property::
+
 
 Deontic:: must
 
+
 Aim:: enable / focus / organise
 
+
 Direct-Object:: disaster mitigation and repose activities under the Disaster Management Plan 
+
 Direct-Object-Reference:: [[City Disaster Management Plan (CDMP)]]
 
+
 Indirect-Object::
+
 Indirect-Object-Reference::
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference::
 
+
 Execution-Constraint-Content:: With focus on 6 areas
+
 Execution-Constraint-Reference:: [[002.001]], [[002.002]], [[002.003]], [[Reg-Tsunami-Alert|002.004]], [[002.005]], [[002.006]]
 
+
 Or-else::
-Or-else-Reference)::
+
+Or-else-Reference::
+
 
 Logical-combination::
+
 
 Invoking-statements::

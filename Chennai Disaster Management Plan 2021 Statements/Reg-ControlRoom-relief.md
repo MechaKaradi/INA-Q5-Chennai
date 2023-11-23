@@ -21,28 +21,44 @@ will be coordinated by the Control Room.”
 
 ### Type: Regulatory Statements
 Attribute:: Control Room
+
 Attribute-link:: [[Control Room]]
+
 Attribute-Property::
+
 
 Deontic:: must
 
+
 Aim:: mobilize 
 
+
 Direct-Object:: essential resources for relief
+
 Direct-Object-Reference::
 
+
 Indirect-Object::
+
 Indirect-Object-Reference::
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference::
 
+
 Execution-Constraint-Content:: with communication to the public 
+
 Execution-Constraint-Reference:: [[Reg-ControlRoom-comms]]
 
+
 Or-else::
+
 Or-else-Reference::
 
+
 Logical-combination::
+
 
 Invoking-statements::

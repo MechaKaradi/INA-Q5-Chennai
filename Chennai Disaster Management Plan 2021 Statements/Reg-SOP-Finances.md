@@ -19,28 +19,44 @@ statement-type: "4"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Greater Chennai Corporation
+
 Attribute-Test::[[Greater Chennai Corporation]] Financial Advisor? 
+
 Attribute-Property::
+
 
 Deontic:: may
 
+
 Aim:: disburse advances towards expenses (to)
 
+
 Direct-Object:: Zonal Officers, Heads of Departments, Officers-in-charge
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object::
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content::
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

@@ -31,14 +31,17 @@ statement-num: "015"
 ### Type: Constitutive statements
 
 Attribute:: Constituted Entity: State Advisory Committee
+
 	Constituted entity Property: 
 
 Constituting Function: advice on measures for Disaster Risk Reduction
 
 Constituted Properties:: Chairmanship of Principal Secretary, Secretary, RDMM is co-chair 
+
 	Constituted Properties Property:
 
 Modal/Deontic:: must be formed
+
 
 Activation Condition Content:
 	Activation Condition Reference:

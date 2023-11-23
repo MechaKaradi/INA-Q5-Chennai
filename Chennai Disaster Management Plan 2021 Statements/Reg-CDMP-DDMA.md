@@ -18,29 +18,46 @@ which is to be approved by .
 
 Entity-Type:: Regulatory Statement
 
+
 Attribute:: District Disaster Management Authority (DDMA) 
+
 Attribute-link:: [[Greater Chennai Corporation|District Disaster Management Authority (DDMA)]] 
+
 Attribute-Property:: of each district in the country
+
 
 Deontic:: shall 
 
+
 Aim:: prepare
 
+
 Direct-Object::  City Disaster Management Plan (CDMP)
+
 Direct-Object-Reference:: [[City Disaster Management Plan (CDMP)]]
 
+
 Indirect-Object:: State Disaster Management Authority (SDMA)
+
 Indirect-Object-Reference:: [[State Disaster Management Authority (SDMA)]]
 
+
 Activation-Condition-Content::
+
 Activation Condition-Reference::
 
+
 Execution-Constraint-Content:: As per Section 31 of the Disaster Management Act, 2005(DM Act) 
+
 Execution-Constraint-Reference:: [[Disaster Management Act, 2005(DM Act)]] 
 
+
 Or-else::
+
 Or-else-Reference::
 
+
 Logical-combination:: AND [[Reg-CDMP-SDMA|001.001]]
+
 
 Invoking-statements::

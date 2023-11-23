@@ -18,30 +18,46 @@ statement-type: "5"
 
 ### Type: Regulatory Statements
 Attribute:: Revenue Administration and Disaster Management Department
+
 Attribute-Property::
+
 
 Deontic:: must
 
+
 Aim:: issue Government Orders and publish policy,
 
+
 Direct-Object:: Government Orders
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object:: 
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content:: when given approval by the SDMA, State Executive Committee and the Commissioner of Revenue Administration
+
 Activation-Condition-Reference::  [[014.001]]
 
+
 Execution-Constraint-Content:: Revenue Administration and Disaster Management Department
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
+
 
 Logical-combination::
 
+
 Invoking-statement(s)::
+
 
 
 ### Type: Constitutive statements

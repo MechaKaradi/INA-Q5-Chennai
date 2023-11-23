@@ -19,27 +19,42 @@ statement-type: "1"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Chief Secretary 
+
 Attribute-Property::
+
 
 Deontic:: must
 
+
 Aim:: convene meeting
 
+
 Direct-Object:: with all central and state agencies 
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object::
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content:: prior to NE monsoon
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content::
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

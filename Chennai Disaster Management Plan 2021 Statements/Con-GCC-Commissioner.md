@@ -12,26 +12,28 @@ statement-num: "004.001"
 ### Type: Constitutive statements
 
 Attribute:: Constituted Entity:: Commissioner
-	Constituted entity Property:
+
+Constituted entity Property:
 
 Constituting Function: administer
 
 Constituted Properties: 
-	Constituted Properties Property:
+Constituted Properties Property:
 
 Modal/Deontic:: 
 
-Activation Condition:: always (implied)
-	Activation Condition Reference:
+Activation-Condition:: always (implied)
 
-Execution Constraint Content:
-	Execution Constraint Reference:
+Activation-Condition-Reference:
 
-Or Else:
-	Forward Reference:
+Execution-Constraint-Content:
 
-Logical Combination:
+Execution-Constraint-Reference:
 
-Invoking Statements:
+Or-else::
 
+Or-else-Reference::
 
+Logical Combination::
+
+Invoking Statements::

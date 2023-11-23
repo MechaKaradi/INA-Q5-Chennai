@@ -15,28 +15,44 @@ statement-type: "4"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Greater Chennai Corporation
+
 Attribute-Test::[[Greater Chennai Corporation|Greater Chennai Corporation]]
+
 Attribute-Property::
+
 
 Deontic:: must
 
+
 Aim:: form Ward Committees to coordinate disaster response in each ward
 
+
 Direct-Object:: 
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object::
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content:: Responsibilities of Ward Committee Members [[045.001]]
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

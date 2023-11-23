@@ -50,27 +50,42 @@ statement-type: "2"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: (Missing)
+
 Attribute-Property::
+
 
 Deontic::
 
+
 Aim::
 
+
 Direct-Object::
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object::
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content::
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

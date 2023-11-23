@@ -22,30 +22,48 @@ are outlined to ensure prompt response to disaster.
 
 ### Type: Regulatory Statements
 Attribute:: Concerned Departments
+
 Attribute:: (Missing)
+
 Attribute-link::
+
 Attribute-Property::
+
 
 Deontic:: must
 
+
 Aim::  follow 
 
+
 Direct-Object:: the SOP
+
 Direct-Object-Reference:: [[Reg-SOP-ddma]], [[Reg-SOP-Health]], [[Reg-SOP-ReliefCentre-PreRain]]
 
+
 Indirect-Object::
+
 Indirect-Object-Reference::
 
+
 Activation-Condition-Content:: in the event of a disaster
+
 Activation-Condition-Reference::
 
+
 Execution-Constraint-Content:: promptly
+
 Execution-Constraint-Reference::
 
+
 Or-else::
+
 Or-else-Reference::
+
 
 Logical-combination::
 
+
 Invoking-statements::
+
 

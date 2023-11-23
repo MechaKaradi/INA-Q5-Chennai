@@ -17,30 +17,44 @@ statement-num: "009"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Control Room
+
 Attribute-link:: [[Control Room]]
+
 Attribute-Property::
 
 Deontic:: must
 
 Aim:: Coordinate activities for rescue, relief, and mitigation
+
 [[009.001]]
 [[009.003]]
 
 Direct-Object::
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object::
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content:: while providing the commissioner with hourly updates
+
 Execution-Constraint-Reference:: [[009.002]]
 
+
 Or-else::
+
 Or-else-Reference::
 
+
 Logical-combination::
+
 
 Invoking-statements::

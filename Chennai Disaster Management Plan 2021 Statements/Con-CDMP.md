@@ -20,6 +20,7 @@ The Greater Chennai Corporation’s annual City Disaster Management Plan serves 
 ### Type: Constitutive statements
 
 Attribute:: Constituted Entity: The City Disaster Management Plan
+
 	Constituted entity Property:
 
 Constituting Function:
@@ -28,6 +29,7 @@ Constituted Properties: The District Disaster Management Plan
 	Constituted Properties Property:
 
 Modal/Deontic:: is assigned to
+
 
 Activation Condition Content:
 	Activation Condition Reference:

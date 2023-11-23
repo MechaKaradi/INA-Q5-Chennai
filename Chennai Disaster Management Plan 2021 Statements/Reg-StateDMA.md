@@ -18,28 +18,44 @@ statement-type: "3"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: State Disaster Management Authority 
+
 Attribute-Test::[[State Disaster Management Authority (SDMA)]]
+
 Attribute-Property:: chaired by [[Chief Minister]]
+
 
 Deontic:: must
 
+
 Aim:: coordianate Disaster Response and Mitigation
 
+
 Direct-Object::
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object::
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content:: “All measures for mitigation, preparedness, response and recovery are undertaken under the guidance and supervision of the Authority. 
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

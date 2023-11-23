@@ -15,28 +15,44 @@ statement-type: "2"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Reg
+
 Attribute-Test::[[Reg-ControlRoom1|Control Room]] 
+
 Attribute-Property:: at the [[Greater Chennai Corporation]]
+
 
 Deontic:: must
 
+
 Aim:: Communicate information recieved
 
+
 Direct-Object:: from SEOC (sic) (SEC?)
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object::
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content::
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

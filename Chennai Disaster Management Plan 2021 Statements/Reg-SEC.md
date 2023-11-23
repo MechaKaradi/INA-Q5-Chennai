@@ -15,27 +15,42 @@ statement-type: "3"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: State Executive Committee
+
 Attribute-Property:: 
+
 
 Deontic:: must 
 
+
 Aim:: establish disaster specific cells to analyse the risk profile
 
+
 Direct-Object:: Disaster Risk Reduction Strategies
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object:: SDMA
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content:: approved by SDMA
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

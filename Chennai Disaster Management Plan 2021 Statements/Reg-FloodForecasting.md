@@ -18,27 +18,42 @@ statement-type: "1"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Government of Tamil Nadu 
+
 Attribute-Property::
+
 
 Deontic:: will 
 
+
 Aim:: develop and deploy
 
+
 Direct-Object:: flood forecasting Decision Support System 
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object:: Under [[TNUSDP|Tamil Nadu Sustainable Urban Development Project]]
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content::
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

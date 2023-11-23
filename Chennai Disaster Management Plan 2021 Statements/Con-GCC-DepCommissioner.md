@@ -15,6 +15,7 @@ statement-num: "004.002"
 ### Type: Constitutive statements
 
 Attribute:: Constituted Entity: [[Deputy Commissioners]]
+
 	Constituted entity Property: Area of responsibility for commissioner ( Water, Health, Education or Finance)
 
 Constituting Function: Head department
@@ -23,6 +24,7 @@ Constituted Properties:
 	Constituted Properties Property:
 
 Modal/Deontic:: 
+
 
 Activation Condition Content:
 	Activation Condition Reference:

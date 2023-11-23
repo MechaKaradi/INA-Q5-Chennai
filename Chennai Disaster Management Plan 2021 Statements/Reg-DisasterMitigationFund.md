@@ -15,28 +15,44 @@ statement-type: "3"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Government of Tamil Nadu
+
 Attribute-Test::[[Government of Tamil Nadu]]
+
 Attribute-Property::
+
 
 Deontic:: must
 
+
 Aim:: create
 
+
 Direct-Object:: Disaster Mitigation Fund
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object::
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content::
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

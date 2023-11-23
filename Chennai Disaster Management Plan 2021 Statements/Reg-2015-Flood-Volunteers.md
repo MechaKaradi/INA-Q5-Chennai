@@ -15,28 +15,44 @@ statement-type: "8"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Volunteer
+
 Attribute-Test::[[Volunteer]]
+
 Attribute-Property::
+
 
 Deontic:: may
 
+
 Aim:: volunteer for disaster relief activities
 
+
 Direct-Object::
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object:: [[Greater Chennai Corporation]]
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content:: with the guidance and support of GCC
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

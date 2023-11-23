@@ -23,27 +23,42 @@ Greater Chennai Corporation has been working with the private sector to restore 
 ## Components
 ### Type: Regulatory Statement
 Attribute:: ??
+
 Attribute-Property::
+
 
 Deontic:: must
 
+
 Aim:: engage and support 
 
+
 Direct-Object:: investments in better design and construction through Building Codes
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object:: 'Private Sector'
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content::
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

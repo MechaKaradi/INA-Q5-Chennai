@@ -15,28 +15,44 @@ statement-type: "7"
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Government of Tamil Nadu
+
 Attribute-Test::[[Government of Tamil Nadu]]
+
 Attribute-Property::
+
 
 Deontic:: will
 
+
 Aim:: mandate the assessment and inclusion
 
+
 Direct-Object:: of disaster risks
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object:: into the schemes and projects
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content::
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::

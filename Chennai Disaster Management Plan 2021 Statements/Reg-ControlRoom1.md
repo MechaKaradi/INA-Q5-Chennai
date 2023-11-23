@@ -20,28 +20,44 @@ The Control Room is functioning under overall supervision of the Joint /Deputy C
 ## Components
 ### Type: Regulatory Statement
 Attribute:: Greater Chennai Corporation
+
 Attribute-link:: [[Greater Chennai Corporation|GCC]]
+
 Attribute-Property::
+
 
 Deontic:: must
 
+
 Aim:: establish
 
+
 Direct-Object:: Control Room
+
 Direct-Object-Reference:: [[Control Room]]
 
+
 Indirect-Object::
+
 Indirect-Object-Reference::
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference::
 
+
 Execution-Constraint-Content::
+
 Execution-Constraint-Reference::
 
+
 Or-else::
+
 Or-else-Reference::
 
+
 Logical-combination::
+
 
 Invoking-statements::

@@ -25,27 +25,42 @@ are also proposed to be integrated in the overall Disaster Management framework 
 ## Components
 ### Type: Regulatory Statement
 Attribute:: State Government - [[State Disaster Management Authority (SDMA)]]
+
 Attribute-Property::
+
 
 Deontic:: must
 
+
 Aim:: establish
 
+
 Direct-Object:: Civil Defence Corps
+
 Direct-Object-Reference:: 
 
+
 Indirect-Object:: connected to NCC, NSS, NyKS
+
 Indirect-Object-Reference:: 
 
+
 Activation-Condition-Content::
+
 Activation-Condition-Reference:: 
 
+
 Execution-Constraint-Content::
+
 Execution-Constraint-Reference:: 
 
+
 Or-else::
+
 Or-else-Reference:: 
 
+
 Logical-combination::
+
 
 Invoking-statement(s)::
