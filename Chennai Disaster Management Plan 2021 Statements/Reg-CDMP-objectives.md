@@ -49,7 +49,7 @@ Deontic:: must
 Aim:: enable / focus / organise
 
 
-Direct-Object:: disaster mitigation and repose activities under the Disaster Management Plan 
+Direct-Object:: Disaster Management Plan 
 
 Direct-Object-Reference:: [[City Disaster Management Plan (CDMP)]]
 

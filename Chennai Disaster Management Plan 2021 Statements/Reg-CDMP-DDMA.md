@@ -25,12 +25,9 @@ Attribute-link:: [[Greater Chennai Corporation|District Disaster Management Auth
 
 Attribute-Property:: of each district in the country
 
-
 Deontic:: shall 
 
-
 Aim:: prepare
-
 
 Direct-Object::  City Disaster Management Plan (CDMP)
 
