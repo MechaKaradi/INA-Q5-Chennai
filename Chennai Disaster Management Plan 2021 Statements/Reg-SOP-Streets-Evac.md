@@ -27,7 +27,7 @@ Cleaning of sumps with Bleaching powder and filling fresh water
 ### Type: Regulatory Statement
 Attribute:: Greater Chennai Corporation
 
-Attribute-Test::[[Greater Chennai Corporation]]
+Attribute-link::[[Greater Chennai Corporation]]
 
 Attribute-Property::
 

@@ -14,7 +14,7 @@ statement-num: "030"
 ### Type: Regulatory Statement
 Attribute:: Greater Chennai Corporation
 
-Attribute-Test::[[Greater Chennai Corporation]]
+Attribute-link::[[Greater Chennai Corporation]]
 
 Attribute-Property::
 

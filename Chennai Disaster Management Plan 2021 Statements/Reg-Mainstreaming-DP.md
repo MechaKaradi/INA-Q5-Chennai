@@ -18,7 +18,7 @@ into land use policy development and implementation, including urban planning, l
 ### Type: Regulatory Statement
 Attribute:: Government of Tamil Nadu
 
-Attribute-Test::[[Government of Tamil Nadu]]
+Attribute-link::[[Government of Tamil Nadu]]
 
 Attribute-Property::
 

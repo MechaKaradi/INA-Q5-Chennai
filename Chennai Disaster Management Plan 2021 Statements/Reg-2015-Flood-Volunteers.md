@@ -16,7 +16,7 @@ statement-type: "8"
 ### Type: Regulatory Statement
 Attribute:: Volunteer
 
-Attribute-Test::[[Volunteer]]
+Attribute-link::[[Volunteer]]
 
 Attribute-Property::
 

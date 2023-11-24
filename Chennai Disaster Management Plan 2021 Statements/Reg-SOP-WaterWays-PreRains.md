@@ -50,7 +50,7 @@ Streets where SWD Require Cleaning [[031.011]]
 ### Type: Regulatory Statement
 Attribute:: Greater Chennai Corporation
 
-Attribute-Test::[[Greater Chennai Corporation]]
+Attribute-link::[[Greater Chennai Corporation]]
 
 Attribute-Property::
 

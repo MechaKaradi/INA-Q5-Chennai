@@ -21,7 +21,7 @@ Entity-Type:: Regulatory Statement
 
 Attribute:: State Disaster Management Authority 
 
-Attribute-Test::[[State Disaster Management Authority (SDMA)]]
+Attribute-link::[[State Disaster Management Authority (SDMA)]]
 
 Deontic:: must/may
 

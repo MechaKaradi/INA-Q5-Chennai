@@ -44,7 +44,7 @@ During Rain
 ### Type: Regulatory Statement
 Attribute:: Greater Chennai Corporation
 
-Attribute-Test::[[Greater Chennai Corporation]]
+Attribute-link::[[Greater Chennai Corporation]]
 
 Attribute-Property::
 

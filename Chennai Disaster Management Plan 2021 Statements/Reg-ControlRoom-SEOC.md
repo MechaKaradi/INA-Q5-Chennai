@@ -16,7 +16,7 @@ statement-type: "2"
 ### Type: Regulatory Statement
 Attribute:: Reg
 
-Attribute-Test::[[Reg-ControlRoom1|Control Room]] 
+Attribute-link::[[Reg-ControlRoom1|Control Room]] 
 
 Attribute-Property:: at the [[Greater Chennai Corporation]]
 

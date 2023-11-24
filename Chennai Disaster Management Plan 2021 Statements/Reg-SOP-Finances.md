@@ -20,7 +20,7 @@ statement-type: "4"
 ### Type: Regulatory Statement
 Attribute:: Greater Chennai Corporation
 
-Attribute-Test::[[Greater Chennai Corporation]] Financial Advisor? 
+Attribute-link::[[Greater Chennai Corporation]] Financial Advisor? 
 
 Attribute-Property::
 

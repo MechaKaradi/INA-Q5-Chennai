@@ -28,7 +28,7 @@ v. Accommodate NDRF in chosen place. Deploy them in selected location for evacua
 ### Type: Regulatory Statement
 Attribute:: 019
 
-Attribute-Test::[[019|TNDRF]] or [[NDRF]]
+Attribute-link::[[019|TNDRF]] or [[NDRF]]
 
 Attribute-Property::
 

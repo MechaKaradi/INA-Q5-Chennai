@@ -26,7 +26,7 @@ G.C.C workers totaling to 19,411 were rushed in for the restoration work.
 ### Type: Regulatory Statement
 Attribute:: Greater Chennai Corporation
 
-Attribute-Test::[[Greater Chennai Corporation]]
+Attribute-link::[[Greater Chennai Corporation]]
 
 Attribute-Property::
 

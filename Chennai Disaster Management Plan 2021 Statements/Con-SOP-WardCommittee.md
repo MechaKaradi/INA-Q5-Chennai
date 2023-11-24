@@ -16,7 +16,7 @@ statement-type: "4"
 ### Type: Regulatory Statement
 Attribute:: Greater Chennai Corporation
 
-Attribute-Test::[[Greater Chennai Corporation|Greater Chennai Corporation]]
+Attribute-link::[[Greater Chennai Corporation|Greater Chennai Corporation]]
 
 Attribute-Property::
 
