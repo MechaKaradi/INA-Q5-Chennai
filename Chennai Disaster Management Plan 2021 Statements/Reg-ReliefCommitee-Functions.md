@@ -1,8 +1,7 @@
 ---
-aliases:
-  - "007.001"
+aliases: []
 section: 3 - IFA
-statement-num: "007.001"
+statement-num: 
 statement-type: "3"
 ---
 ## Statements 
@@ -23,56 +22,3 @@ statement-type: "3"
 ## Components
 
 ### Type: Regulatory Statements
-Attribute:: ReliefCommittee
-
-Attribute-link::[[ReliefCommittee]] 
-
-	Attribute Property:
-Deontic:
-
-Aim:
-
-Direct-Object:
-	Reference statement:
-
-Indirect-Object:
-	Reference statement:
-Activation Condition (Content):
-	Activation Condition (Reference to statement):
-Execution Constraint (Content):
-	Execution Constraint (Reference to statement): 
-Or else:
-	Or else (Forward reference):
-
-
-Logical combination:
-
-
-Invoking statement(s):
-
-
-### Type: Constitutive statements
-
-Constituted Entity:
-	Constituted entity Property:
-
-Constituting Function:
-
-Constituted Properties:
-	Constituted Properties Property:
-
-Modal/Deontic:
-
-Activation Condition Content:
-	Activation Condition Reference:
-
-Execution Constraint Content:
-	Execution Constraint Reference:
-
-Or Else:
-	Forward Reference:
-
-Logical Combination:
-
-Invoking Statements:
-

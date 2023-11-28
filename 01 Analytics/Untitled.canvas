@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"91329d48d29fe487","type":"file","file":"Chennai Disaster Management Plan 2021 Statements/Reg-CDMP-DDMA.md","subpath":"#Statements","x":-580,"y":-300,"width":400,"height":400,"color":"6"},
-		{"id":"a031556c19820bc8","type":"file","file":"Chennai Disaster Management Plan 2021 Statements/Reg-CDMP-SDMA.md","x":232,"y":-760,"width":400,"height":602}
-	],
-	"edges":[
-		{"id":"f1f84436909bd3d7","fromNode":"91329d48d29fe487","fromSide":"right","toNode":"a031556c19820bc8","toSide":"left"}
-	]
-}

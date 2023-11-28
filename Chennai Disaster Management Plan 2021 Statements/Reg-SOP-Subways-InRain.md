@@ -56,7 +56,7 @@ Aim:: ensure roads remain functional during the rain
 
 Direct-Object:: Subways
 
-Direct-Object-Reference:: 
+Direct-Object-Reference:: [[Subway]]
 
 
 Indirect-Object::

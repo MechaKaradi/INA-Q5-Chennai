@@ -1,7 +1,7 @@
 ---
 aliases: 
 section: 
-statement-num: "024"
+statement-num: 
 statement-type: "1"
 ---
 ## Statements 

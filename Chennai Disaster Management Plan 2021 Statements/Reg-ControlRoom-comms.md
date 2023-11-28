@@ -37,7 +37,7 @@ Indirect-Object:: to the public
 
 Indirect-Object-Reference::
 
-Activation-Condition-Content::
+Activation-Condition-Content:: at all times
 
 Activation-Condition-Reference::
 

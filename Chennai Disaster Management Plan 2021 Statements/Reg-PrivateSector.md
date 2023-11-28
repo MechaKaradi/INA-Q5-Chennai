@@ -22,25 +22,22 @@ taking into account economic, social, structural, technological and environmenta
 Greater Chennai Corporation has been working with the private sector to restore waterbodies. GCC has signed MoUs with various NGOs and the private sector. 
 ## Components
 ### Type: Regulatory Statement
-Attribute:: ??
+Attribute:: (Missing)
 
 Attribute-Property::
 
-
 Deontic:: must
-
 
 Aim:: engage and support 
 
-
-Direct-Object:: investments in better design and construction through Building Codes
+Direct-Object:: investments in better design and construction 
 
 Direct-Object-Reference:: 
 
 
-Indirect-Object:: 'Private Sector'
+Indirect-Object:: Private Sector
 
-Indirect-Object-Reference:: 
+Indirect-Object-Reference::  [[Private Sector]] [[Citizens]]
 
 
 Activation-Condition-Content::

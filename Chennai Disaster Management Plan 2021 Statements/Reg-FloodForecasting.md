@@ -19,6 +19,8 @@ statement-type: "1"
 ### Type: Regulatory Statement
 Attribute:: Government of Tamil Nadu 
 
+Attribute-link:: [[State Government|Government of Tamil Nadu]]
+
 Attribute-Property::
 
 

@@ -20,6 +20,8 @@ statement-type: "1"
 ### Type: Regulatory Statement
 Attribute:: Chief Secretary 
 
+Attribute-link:: [[Chief Secretary]]
+
 Attribute-Property::
 
 
@@ -31,7 +33,7 @@ Aim:: convene meeting
 
 Direct-Object:: with all central and state agencies 
 
-Direct-Object-Reference:: 
+Direct-Object-Reference:: [[Con-StateReliefCommissioner|Commissioner of Revenue Administration]]
 
 
 Indirect-Object::
@@ -39,7 +41,7 @@ Indirect-Object::
 Indirect-Object-Reference:: 
 
 
-Activation-Condition-Content:: prior to NE monsoon
+Activation-Condition-Content:: Annually, prior to NE monsoon
 
 Activation-Condition-Reference:: 
 

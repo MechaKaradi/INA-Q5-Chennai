@@ -26,37 +26,29 @@ Attribute-Property::
 Deontic:: must
 
 
-Aim:: monitor Disaster Mitigation activites
+Aim:: monitor 
 
-
-Direct-Object::
+Direct-Object:: (Disaster Mitigation activites)
 
 Direct-Object-Reference::
-
 
 Indirect-Object::
 
 Indirect-Object-Reference::
 
-
-Activation-Condition-Content::
+Activation-Condition-Content:: at all times
 
 Activation-Condition-Reference::
 
-
 Execution-Constraint-Content:: According to the duties assigned
 
-Execution-Constraint-Reference:: [[Reg-ReliefCommitee-Functions|007.001]]
-
+Execution-Constraint-Reference:: [[007.002]], [[007.003]], [[007.004]], [[007.005]], [[007.006]], [[007.007]]
 
 Or-else::
 
 Or-else-Reference::
 
-
 Logical-combination::
 
-
 Invoking-statements::
-
 

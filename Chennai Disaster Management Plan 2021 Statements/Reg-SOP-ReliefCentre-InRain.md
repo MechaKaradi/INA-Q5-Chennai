@@ -2,7 +2,7 @@
 aliases:
   - "035"
 section: 8 - SOP
-statement-num: "035"
+statement-num: 
 statement-type: "2"
 ---
 ## Statements 

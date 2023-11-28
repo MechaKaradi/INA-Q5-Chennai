@@ -3,7 +3,7 @@ aliases:
   - "037"
 section: 
 statement-num: "037"
-statement-type: "2"
+statement-type: "1"
 ---
 ## Statements 
 > [!info] Raw Statement
@@ -49,7 +49,7 @@ Aim:: maintain
 
 Direct-Object:: Subways
 
-Direct-Object-Reference:: 
+Direct-Object-Reference:: [[Subway]]
 
 
 Indirect-Object::

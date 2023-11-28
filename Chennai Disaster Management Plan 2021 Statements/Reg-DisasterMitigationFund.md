@@ -16,7 +16,7 @@ statement-type: "3"
 ### Type: Regulatory Statement
 Attribute:: Government of Tamil Nadu
 
-Attribute-link::[[Government of Tamil Nadu]]
+Attribute-link::[[State Government]]
 
 Attribute-Property::
 

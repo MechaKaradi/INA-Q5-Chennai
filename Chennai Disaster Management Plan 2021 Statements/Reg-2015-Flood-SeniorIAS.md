@@ -15,6 +15,8 @@ statement-type: "4"
 ### Type: Regulatory Statement
 Attribute:: State Government
 
+Attribute-link:: [[State Government]]
+
 Attribute-Property:: 
 
 
@@ -26,7 +28,7 @@ Aim:: appoint for each Zone
 
 Direct-Object:: Monitoring Officers
 
-Direct-Object-Reference::  Senior IAS Officers
+Direct-Object-Reference::  [[Monitoring Officers]] Senior IAS Officers
 
 
 Indirect-Object:: City Zone

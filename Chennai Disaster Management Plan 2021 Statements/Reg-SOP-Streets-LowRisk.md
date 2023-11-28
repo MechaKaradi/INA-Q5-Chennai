@@ -3,7 +3,7 @@ aliases:
   - "040"
 section: 
 statement-num: "040"
-statement-type: "2"
+statement-type: "1"
 ---
 ## Statements 
 > [!info] Raw Statement

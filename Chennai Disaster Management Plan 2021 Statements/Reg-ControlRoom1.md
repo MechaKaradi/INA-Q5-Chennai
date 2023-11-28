@@ -25,39 +25,30 @@ Attribute-link:: [[Greater Chennai Corporation|GCC]]
 
 Attribute-Property::
 
-
 Deontic:: must
 
-
 Aim:: establish
-
 
 Direct-Object:: Control Room
 
 Direct-Object-Reference:: [[Control Room]]
 
-
 Indirect-Object::
 
 Indirect-Object-Reference::
-
 
 Activation-Condition-Content::
 
 Activation-Condition-Reference::
 
-
 Execution-Constraint-Content::
 
 Execution-Constraint-Reference::
-
 
 Or-else::
 
 Or-else-Reference::
 
-
 Logical-combination::
-
 
 Invoking-statements::

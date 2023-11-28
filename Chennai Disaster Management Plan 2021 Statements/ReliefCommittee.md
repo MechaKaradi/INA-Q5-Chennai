@@ -4,15 +4,13 @@ aliases:
 ---
 Entity-Type:: Object
 
-
 Object-Name:: 
 
 Object-Type:: Animate 
 
-Object-Affiliation:: Composed
+Object-Affiliation::
 
 Composition:: {
-
 	[[Commissioner GCC]]
 	[[Collector of Chennai]]
 	[[Executive Director Metro Water Chennai]]

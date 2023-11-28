@@ -22,7 +22,7 @@ Attribute-link:: [[Greater Chennai Corporation|Greater Chennai Corporation]]
 Attribute-Property::
 
 
-Deontic:: must, (has to)
+Deontic:: must
 
 
 Aim:: receive
@@ -30,7 +30,7 @@ Aim:: receive
 
 Direct-Object:: tsunami alert
 
-	Reference statement:
+Reference statement:
 
 Indirect-Object:: Indian Tsunami Early Warning Centre (ITEWC)
 

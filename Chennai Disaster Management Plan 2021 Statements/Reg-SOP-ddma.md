@@ -23,8 +23,6 @@ are outlined to ensure prompt response to disaster.
 ### Type: Regulatory Statements
 Attribute:: Concerned Departments
 
-Attribute:: (Missing)
-
 Attribute-link::
 
 Attribute-Property::
@@ -36,9 +34,9 @@ Deontic:: must
 Aim::  follow 
 
 
-Direct-Object:: the SOP
+Direct-Object:: the SOP for disaster response
 
-Direct-Object-Reference:: [[Reg-SOP-ddma]], [[Reg-SOP-Health]], [[Reg-SOP-ReliefCentre-PreRain]]
+Direct-Object-Reference:: [[City Disaster Management Plan (CDMP)]]
 
 
 Indirect-Object::

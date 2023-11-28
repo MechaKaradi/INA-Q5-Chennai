@@ -40,10 +40,10 @@ Indirect-Object-Reference::
 
 Activation-Condition-Content:: when given approval by the SDMA, State Executive Committee and the Commissioner of Revenue Administration
 
-Activation-Condition-Reference::  [[014.001]]
+Activation-Condition-Reference::  [[Reg-Policy-Approval]]
 
 
-Execution-Constraint-Content:: Revenue Administration and Disaster Management Department
+Execution-Constraint-Content:: 
 
 Execution-Constraint-Reference:: 
 

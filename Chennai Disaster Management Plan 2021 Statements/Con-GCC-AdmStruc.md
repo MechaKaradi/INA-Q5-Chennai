@@ -2,7 +2,7 @@
 aliases:
   - "004"
 section: Chennai Profile
-statement-num: "004"
+statement-num:
 ---
 ## Statements 
 > [!info] Raw Statement

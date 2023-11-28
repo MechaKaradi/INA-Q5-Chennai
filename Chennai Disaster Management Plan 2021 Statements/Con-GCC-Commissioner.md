@@ -2,7 +2,7 @@
 aliases:
   - "004.001"
 section: Chennai Profile
-statement-num: "004.001"
+statement-num:
 ---
 ## Statements 
 > [!info] Raw Statement

@@ -1,7 +1,7 @@
 Entity-Type:: Object
 
 
-Object-Name:: 
+Object-Name:: Deputy Commissioners
 
 Object-Type:: Animate, Individual
 

@@ -4,7 +4,7 @@ aliases:
   - Commissioner of Revenue Administration
   - State Relief Commissioner
 section: 3 - IFA
-statement-num: "013"
+statement-num:
 ---
 
 ## Statements 
@@ -20,7 +20,24 @@ statement-num: "013"
 ## Components
 
 ### Type: Constitutive statements
-Attribute::State Relief Commissioner
+Attribute:: State Relief Commissioner
+Attribute-link:: [[State Relief Commissioner]]
+Deontic::
+
+Aim::
+
+Direct-Object::
+Direct-Object-Reference::
+
+Indirect-Object::
+Indirect-Object-Reference::
+
+Activation-Condition-Content::
+Activation-Condition-Reference::
+
+Execution-Constraint-Content::
+Execution-Constraint-Reference::
+
 
 Constituted Entity: State Relief Commissioner
 	Constituted entity Property: Commissioner of Revenue Administration
@@ -35,7 +52,7 @@ Modal/Deontic:: assigned to
 
 Activation Condition:: 
 
-	Activation Condition Reference:
+Activation Condition Reference:
 
 Execution Constraint Content:
 	Execution Constraint Reference:
@@ -47,3 +64,11 @@ Logical Combination:
 
 Invoking Statements:
 
+
+
+Or-else::
+Or-else-Reference::
+
+Logical-combination::
+
+Invoking-statements::

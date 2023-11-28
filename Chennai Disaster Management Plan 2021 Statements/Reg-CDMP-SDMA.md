@@ -38,7 +38,7 @@ Indirect-Object::
 Indirect-Object-Reference::
 
 
-Activation-Condition-Content::
+Activation-Condition-Content:: when it is complete
 
 Activation-Condition-Reference::
 

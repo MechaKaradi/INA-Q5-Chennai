@@ -3,7 +3,7 @@ aliases:
   - "045"
 section: 
 statement-num: "045"
-statement-type: "4"
+statement-type: "1"
 ---
 ## Statements 
 > [!info] Raw Statement
@@ -24,12 +24,12 @@ Attribute-Property::
 Deontic:: must
 
 
-Aim:: form Ward Committees to coordinate disaster response in each ward
+Aim:: form 
 
 
-Direct-Object:: 
+Direct-Object:: Ward Committees
 
-Direct-Object-Reference:: 
+Direct-Object-Reference:: [[Ward Committees]]
 
 
 Indirect-Object::

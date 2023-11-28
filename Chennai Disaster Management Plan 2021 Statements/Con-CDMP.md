@@ -2,7 +2,7 @@
 aliases:
   - "011"
 section: 
-statement-num: "011"
+statement-num:
 ---
 ## Statements 
 > [!info] Raw Statement

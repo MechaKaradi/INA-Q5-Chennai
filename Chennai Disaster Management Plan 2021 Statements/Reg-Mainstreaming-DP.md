@@ -3,7 +3,7 @@ aliases:
   - "028"
 section: 
 statement-num: "028"
-statement-type: "7"
+statement-type: "3"
 ---
 ## Statements 
 > [!info] Raw Statement
@@ -18,7 +18,7 @@ into land use policy development and implementation, including urban planning, l
 ### Type: Regulatory Statement
 Attribute:: Government of Tamil Nadu
 
-Attribute-link::[[Government of Tamil Nadu]]
+Attribute-link::[[State Government]]
 
 Attribute-Property::
 

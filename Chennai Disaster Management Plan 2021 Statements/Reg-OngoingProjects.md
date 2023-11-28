@@ -3,7 +3,7 @@ aliases:
   - "029"
 section: 
 statement-num: "029"
-statement-type: "7"
+statement-type: "3"
 ---
 ## Statements 
 > [!info] Raw Statement
@@ -16,7 +16,7 @@ statement-type: "7"
 ### Type: Regulatory Statement
 Attribute:: Government of Tamil Nadu
 
-Attribute-link::[[Government of Tamil Nadu]]
+Attribute-link::[[State Government]]
 
 Attribute-Property::
 
