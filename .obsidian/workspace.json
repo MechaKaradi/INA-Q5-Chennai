@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3005cd1936b69982",
+        "id": "522fa3c58309cacc",
         "type": "tabs",
-        "dimension": 70.44235924932975,
+        "dimension": 38.3248730964467,
         "children": [
           {
-            "id": "172f6353e7bc1f24",
+            "id": "0d8dea6894e915dc",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Analytics/Statement Breakdown Table.md",
-                "mode": "preview",
+                "file": "Greater Chennai Corporation.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
@@ -26,21 +26,18 @@
         ]
       },
       {
-        "id": "522fa3c58309cacc",
+        "id": "48c8628917be81a8",
         "type": "tabs",
-        "dimension": 29.557640750670238,
+        "dimension": 61.6751269035533,
         "children": [
           {
-            "id": "0d8dea6894e915dc",
+            "id": "977adcaede4a05e3",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chennai Disaster Management Plan 2021 Statements/031.009.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -93,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9302a1914bef9261",
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Analytics/Statement Breakdown Table.md",
+                "file": "Greater Chennai Corporation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Analytics/Statement Breakdown Table.md",
+                "file": "Greater Chennai Corporation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Analytics/Statement Breakdown Table.md"
+                "file": "Greater Chennai Corporation.md"
               }
             }
           },
@@ -177,16 +175,32 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01 Analytics/Statement Breakdown Table.md"
+                "file": "Greater Chennai Corporation.md"
               }
             }
+          },
+          {
+            "id": "b2c29fb181da9490",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "c792e4c3a5e53684",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,17 +213,22 @@
       "workspaces:Manage workspace layouts": false,
       "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "172f6353e7bc1f24",
+  "active": "c792e4c3a5e53684",
   "lastOpenFiles": [
-    "table-export-002.csv",
-    "Chennai Disaster Management Plan 2021 Statements/031.009.md",
-    "01 Analytics/Statement Breakdown Table.md",
+    "Chennai Disaster Management Plan 2021 Statements/Zonal Officer.md",
+    "Greater Chennai Corporation.md",
     "Chennai Disaster Management Plan 2021 Statements/023.002.md",
     "Chennai Disaster Management Plan 2021 Statements/Reg-CivilDefence.md",
     "Chennai Disaster Management Plan 2021 Statements/020.md",
+    "Chennai Disaster Management Plan 2021 Statements/State Government.md",
+    "Chennai Disaster Management Plan 2021 Statements/039.005.md",
+    "01 Analytics/Statement Breakdown Table.md",
+    "table-export-002.csv",
+    "Chennai Disaster Management Plan 2021 Statements/031.009.md",
     "Chennai Disaster Management Plan 2021 Statements/009.006.md",
     "Chennai Disaster Management Plan 2021 Statements/009.004.md",
     "Chennai Disaster Management Plan 2021 Statements/009.003.md",
@@ -227,9 +246,6 @@
     "Chennai Disaster Management Plan 2021 Statements/Con-SOP-WardCommittee.md",
     "Chennai Disaster Management Plan 2021 Statements/045.002.md",
     "Chennai Disaster Management Plan 2021 Statements/045.003.md",
-    "Chennai Disaster Management Plan 2021 Statements/045.004.md",
-    "Chennai Disaster Management Plan 2021 Statements/045.007.md",
-    "Chennai Disaster Management Plan 2021 Statements/045.008.md",
     "statementeport20231128.csv",
     "table-export-001.csv",
     "01 Analytics/Untitled.canvas",
@@ -239,7 +255,6 @@
     "zzzz-scripts/statement-num.js",
     "zzzz-scripts/New Text Document.txt",
     "zzzz-scripts",
-    "01 Analytics",
-    "Chennai Disaster Management Plan 2021 Statements"
+    "01 Analytics"
   ]
 }
