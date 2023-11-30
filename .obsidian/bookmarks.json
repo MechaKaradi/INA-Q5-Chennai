@@ -167,6 +167,160 @@
         "scale": 0.15884734388636876,
         "close": false
       }
+    },
+    {
+      "type": "graph",
+      "ctime": 1701271351569,
+      "title": "Sector graph",
+      "options": {
+        "collapse-filter": false,
+        "search": "[\"statement-num\":]",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "line:(Control Room)",
+            "color": {
+              "a": 1,
+              "rgb": 11657298
+            }
+          },
+          {
+            "query": "line:(ReliefCommittee)",
+            "color": {
+              "a": 1,
+              "rgb": 14935592
+            }
+          },
+          {
+            "query": "line:(Greater Chennai Corporation)",
+            "color": {
+              "a": 1,
+              "rgb": 5427424
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 1.61278586278586,
+        "lineSizeMultiplier": 1.26642411642412,
+        "collapse-forces": false,
+        "centerStrength": 0.412681912681913,
+        "repelStrength": 20,
+        "linkStrength": 0.691268191268191,
+        "linkDistance": 30,
+        "scale": 0.22095190968219594,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1701271584168,
+      "title": "Sector graph",
+      "options": {
+        "collapse-filter": false,
+        "search": "line:(Regulatory)",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": true,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "line:(Control Room)",
+            "color": {
+              "a": 1,
+              "rgb": 11657298
+            }
+          },
+          {
+            "query": "line:(ReliefCommittee)",
+            "color": {
+              "a": 1,
+              "rgb": 14935592
+            }
+          },
+          {
+            "query": "line:(Greater Chennai Corporation)",
+            "color": {
+              "a": 1,
+              "rgb": 5427424
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 1.61278586278586,
+        "lineSizeMultiplier": 1.26642411642412,
+        "collapse-forces": false,
+        "centerStrength": 0.12993762993763,
+        "repelStrength": 8.58627858627859,
+        "linkStrength": 1,
+        "linkDistance": 30,
+        "scale": 0.10372542130818083,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1701275051006,
+      "title": "at lins",
+      "options": {
+        "collapse-filter": false,
+        "search": "path:\"Chennai Disaster Management Plan 2021 Statements\"  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": true,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "line:(Entity-Type)",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "line:(Control Room)",
+            "color": {
+              "a": 1,
+              "rgb": 11657298
+            }
+          },
+          {
+            "query": "line:(ReliefCommittee)",
+            "color": {
+              "a": 1,
+              "rgb": 14935592
+            }
+          },
+          {
+            "query": "line:(Greater Chennai Corporation)",
+            "color": {
+              "a": 1,
+              "rgb": 5427424
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": true,
+        "textFadeMultiplier": -0.7,
+        "nodeSizeMultiplier": 1.77577962577963,
+        "lineSizeMultiplier": 1.26642411642412,
+        "collapse-forces": false,
+        "centerStrength": 0.163201663201663,
+        "repelStrength": 8.25363825363825,
+        "linkStrength": 1,
+        "linkDistance": 238,
+        "scale": 0.23767046872855582,
+        "close": false
+      }
     }
   ]
 }

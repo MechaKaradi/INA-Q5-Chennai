@@ -6,38 +6,31 @@
       {
         "id": "522fa3c58309cacc",
         "type": "tabs",
-        "dimension": 38.3248730964467,
         "children": [
           {
-            "id": "0d8dea6894e915dc",
+            "id": "76735d13ba87c007",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Greater Chennai Corporation.md",
+                "file": "01 Analytics/Fields Reference.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e971ee45ab989bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chennai Disaster Management Plan 2021 Statements/Control Room.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "48c8628917be81a8",
-        "type": "tabs",
-        "dimension": 61.6751269035533,
-        "children": [
-          {
-            "id": "977adcaede4a05e3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
+              }
             }
           }
         ]
@@ -69,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Attribute-Test",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -86,12 +79,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9302a1914bef9261",
@@ -107,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Greater Chennai Corporation.md",
+                "file": "01 Analytics/Fields Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Greater Chennai Corporation.md",
+                "file": "01 Analytics/Fields Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Greater Chennai Corporation.md"
+                "file": "01 Analytics/Fields Reference.md"
               }
             }
           },
@@ -175,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Greater Chennai Corporation.md"
+                "file": "01 Analytics/Fields Reference.md"
               }
             }
           },
@@ -200,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,35 +211,37 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c792e4c3a5e53684",
+  "active": "76735d13ba87c007",
   "lastOpenFiles": [
-    "Chennai Disaster Management Plan 2021 Statements/Zonal Officer.md",
-    "Greater Chennai Corporation.md",
-    "Chennai Disaster Management Plan 2021 Statements/023.002.md",
-    "Chennai Disaster Management Plan 2021 Statements/Reg-CivilDefence.md",
-    "Chennai Disaster Management Plan 2021 Statements/020.md",
-    "Chennai Disaster Management Plan 2021 Statements/State Government.md",
-    "Chennai Disaster Management Plan 2021 Statements/039.005.md",
-    "01 Analytics/Statement Breakdown Table.md",
-    "table-export-002.csv",
-    "Chennai Disaster Management Plan 2021 Statements/031.009.md",
-    "Chennai Disaster Management Plan 2021 Statements/009.006.md",
-    "Chennai Disaster Management Plan 2021 Statements/009.004.md",
-    "Chennai Disaster Management Plan 2021 Statements/009.003.md",
-    "Chennai Disaster Management Plan 2021 Statements/008.003.md",
+    "Chennai Disaster Management Plan 2021 Statements/Control Room.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-ControlRoom-Reporting.md",
     "Chennai Disaster Management Plan 2021 Statements/008.001.md",
+    "Chennai Disaster Management Plan 2021 Statements/045.001.md",
+    "01 Analytics/Dataview/Objects.md",
+    "Chennai Disaster Management Plan 2021 Statements/031.003.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-SOP-CommonKitchen.md",
+    "Chennai Disaster Management Plan 2021 Statements/031.002.md",
+    "Chennai Disaster Management Plan 2021 Statements/007.007.md",
+    "Chennai Disaster Management Plan 2021 Statements/007.002.md",
+    "Chennai Disaster Management Plan 2021 Statements/007.005.md",
+    "Chennai Disaster Management Plan 2021 Statements/042.001.md",
+    "Chennai Disaster Management Plan 2021 Statements/007.003.md",
+    "Chennai Disaster Management Plan 2021 Statements/007.004.md",
     "Chennai Disaster Management Plan 2021 Statements/007.006.md",
-    "Chennai Disaster Management Plan 2021 Statements/Reg-ReliefCommittee.md",
-    "Chennai Disaster Management Plan 2021 Statements/Reg-ControlRoom-comms.md",
-    "Chennai Disaster Management Plan 2021 Statements/Reg-Tsunami-Alert.md",
-    "Chennai Disaster Management Plan 2021 Statements/002.006.md",
-    "Chennai Disaster Management Plan 2021 Statements/002.005.03.md",
-    "Chennai Disaster Management Plan 2021 Statements/002.005.02.md",
-    "Chennai Disaster Management Plan 2021 Statements/Reg-CDMP-SDMA.md",
-    "Chennai Disaster Management Plan 2021 Statements/043.015.md",
-    "Chennai Disaster Management Plan 2021 Statements/Con-SOP-WardCommittee.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-SOP-TreeFall.md",
+    "Chennai Disaster Management Plan 2021 Statements/045.008.md",
+    "Chennai Disaster Management Plan 2021 Statements/032.004.md",
+    "Chennai Disaster Management Plan 2021 Statements/002.002.md",
+    "01 Analytics/Dataview/Statement Breakdown Table.md",
+    "Chennai Disaster Management Plan 2021 Statements/041.002.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-Mainstreaming-DP.md",
+    "Chennai Disaster Management Plan 2021 Statements/009.003.md",
+    "Chennai Disaster Management Plan 2021 Statements/045.015.md",
     "Chennai Disaster Management Plan 2021 Statements/045.002.md",
-    "Chennai Disaster Management Plan 2021 Statements/045.003.md",
+    "Chennai Disaster Management Plan 2021 Statements/Reg-FloodForecasting.md",
+    "01 Analytics/Writing",
+    "01 Analytics/Dataview",
+    "table-export-002.csv",
     "statementeport20231128.csv",
     "table-export-001.csv",
     "01 Analytics/Untitled.canvas",
@@ -253,8 +249,6 @@
     "statementtypeexport151123.csv",
     "zzzz-scripts/statementnum.js",
     "zzzz-scripts/statement-num.js",
-    "zzzz-scripts/New Text Document.txt",
-    "zzzz-scripts",
-    "01 Analytics"
+    "zzzz-scripts/New Text Document.txt"
   ]
 }
